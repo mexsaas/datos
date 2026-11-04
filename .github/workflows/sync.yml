@@ -1,0 +1,92 @@
+# Every Monday: copy the open dataset from mexsaas.com, commit it when it changed, and push the same files to
+# Hugging Face and Kaggle when their tokens are set as repository secrets. Steps without a token are skipped,
+# so the workflow stays green before those accounts exist.
+name: Sincronizar datos
+
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Monday 07:00 in Mexico City
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Subir a Hugging Face y Kaggle aunque los datos no hayan cambiado"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HF_REPO: ${{ vars.HF_REPO }}
+      KAGGLE_DATASET: ${{ vars.KAGGLE_DATASET }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar y validar
+        run: python scripts/sync.py --kaggle-dir build/kaggle
+
+      - name: Guardar cambios
+        id: commit
+        run: |
+          git add data datapackage.json README.md CITATION.cff
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Datos al $(jq -r .version datapackage.json): $(jq -r '.resources[0].rows' datapackage.json) productos"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Hugging Face
+        if: steps.commit.outputs.changed == 'true' || inputs.force
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then echo "Sin HF_TOKEN: se omite."; exit 0; fi
+          pip install --quiet "huggingface_hub>=0.25"
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          repo = os.environ.get("HF_REPO") or "mexsaas/software-usado-en-mexico"
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          api.create_repo(repo, repo_type="dataset", exist_ok=True)
+          api.upload_folder(
+              folder_path=".",
+              repo_id=repo,
+              repo_type="dataset",
+              allow_patterns=["README.md", "LICENSE", "CITATION.cff", "datapackage.json", "data/*"],
+              commit_message="Actualización semanal desde mexsaas.com/datos",
+          )
+          print("Hugging Face:", repo)
+          PY
+
+      - name: Kaggle
+        if: steps.commit.outputs.changed == 'true' || inputs.force
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+          KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+        run: |
+          if [ -z "$KAGGLE_KEY" ] && [ -z "$KAGGLE_API_TOKEN" ]; then echo "Sin token de Kaggle: se omite."; exit 0; fi
+          pip install --quiet kaggle
+          id="${KAGGLE_DATASET:-mexsaas/software-usado-en-mexico}"
+          if kaggle datasets status "$id" >/dev/null 2>&1; then
+            kaggle datasets version -p build/kaggle -m "Datos al $(jq -r .version datapackage.json)"
+          else
+            kaggle datasets create -p build/kaggle --public
+          fi

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cita la fuente con un enlace a mexsaas."
+type: dataset
+title: "Software usado en México: directorio abierto de mexsaas"
+authors:
+  - name: mexsaas
+    website: "https://www.mexsaas.com"
+url: "https://www.mexsaas.com/datos"
+repository: "https://github.com/mexsaas/datos"
+license: CC-BY-4.0
+version: "2026-11"
+date-released: "2026-11-01"
+keywords:
+  - mexico
+  - software
+  - saas
+  - precios
+  - pymes

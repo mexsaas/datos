@@ -1,0 +1,208 @@
+{
+  "name": "software-usado-en-mexico",
+  "title": "Directorio de software usado en México (mexsaas)",
+  "description": "El software que usan los negocios en México: categoría, país de origen, precio de entrada en pesos, plan gratis, soporte y puntos del ranking orgánico de mexsaas. Solo datos públicos; si un dato no se conoce, la celda va vacía.",
+  "homepage": "https://www.mexsaas.com/datos",
+  "version": "2026-11-01",
+  "keywords": [
+    "mexico",
+    "software",
+    "saas",
+    "precios",
+    "pymes",
+    "directorio"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "mexsaas",
+      "path": "https://www.mexsaas.com/datos"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "mexsaas",
+      "path": "https://www.mexsaas.com",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "software",
+      "path": "data/software.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 307,
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "description": "Identificador único del producto en mexsaas.",
+            "type": "string"
+          },
+          {
+            "name": "nombre",
+            "description": "Nombre comercial.",
+            "type": "string"
+          },
+          {
+            "name": "que_hace",
+            "description": "Descripción de una línea.",
+            "type": "string"
+          },
+          {
+            "name": "categoria",
+            "description": "Categoría principal.",
+            "type": "string"
+          },
+          {
+            "name": "otras_categorias",
+            "description": "Hasta 2 categorías más. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "pais",
+            "description": "País de origen de la empresa.",
+            "type": "string"
+          },
+          {
+            "name": "ciudad",
+            "description": "Ciudad de origen (si es mexicana y se conoce).",
+            "type": "string"
+          },
+          {
+            "name": "fundada",
+            "description": "Año de fundación.",
+            "type": "year"
+          },
+          {
+            "name": "verificado",
+            "description": "La empresa confirmó su información con mexsaas.",
+            "type": "boolean",
+            "trueValues": [
+              "si"
+            ],
+            "falseValues": [
+              "no"
+            ]
+          },
+          {
+            "name": "precio_desde_mxn",
+            "description": "Precio del plan de entrada en pesos, si se publica.",
+            "type": "number"
+          },
+          {
+            "name": "precio_desde_usd",
+            "description": "Precio del plan de entrada en dólares, si solo se publica en dólares.",
+            "type": "number"
+          },
+          {
+            "name": "periodo_precio",
+            "description": "Periodo del precio (mes, año, pago único…).",
+            "type": "string"
+          },
+          {
+            "name": "plan_gratis",
+            "description": "Tiene plan gratis (vacío = sin dato).",
+            "type": "boolean",
+            "trueValues": [
+              "si"
+            ],
+            "falseValues": [
+              "no"
+            ]
+          },
+          {
+            "name": "prueba_gratis",
+            "description": "Tiene prueba gratis (vacío = sin dato).",
+            "type": "boolean",
+            "trueValues": [
+              "si"
+            ],
+            "falseValues": [
+              "no"
+            ]
+          },
+          {
+            "name": "app_movil",
+            "description": "Tiene app móvil (vacío = sin dato).",
+            "type": "boolean",
+            "trueValues": [
+              "si"
+            ],
+            "falseValues": [
+              "no"
+            ]
+          },
+          {
+            "name": "para",
+            "description": "Tipos de negocio a los que va dirigido. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "tareas",
+            "description": "Necesidades que resuelve. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "funciones",
+            "description": "Funciones principales. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "integraciones",
+            "description": "Integraciones publicadas. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "soporte",
+            "description": "Canales de soporte. En CSV, lista separada por |.",
+            "type": "string",
+            "x-separator": "|"
+          },
+          {
+            "name": "puntos_mes",
+            "description": "Puntos orgánicos del ranking de mexsaas este mes.",
+            "type": "number"
+          },
+          {
+            "name": "sitio_web",
+            "description": "Sitio oficial del producto.",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "ficha_mexsaas",
+            "description": "Ficha del producto en mexsaas.",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "datos_revisados",
+            "description": "Fecha de la última revisión de los datos (AAAA-MM-DD).",
+            "type": "date"
+          }
+        ],
+        "primaryKey": "slug"
+      }
+    },
+    {
+      "name": "software-json",
+      "path": "data/software.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}

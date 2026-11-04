@@ -4,6 +4,9 @@
 name: Sincronizar datos
 
 on:
+  push: # a change to this file re-uploads everything, so a new step is tried right away
+    branches: [main]
+    paths: [".github/workflows/sync.yml"]
   schedule:
     - cron: "0 13 * * 1" # Monday 07:00 in Mexico City
   workflow_dispatch:
@@ -53,7 +56,7 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Hugging Face
-        if: steps.commit.outputs.changed == 'true' || inputs.force
+        if: steps.commit.outputs.changed == 'true' || inputs.force || github.event_name == 'push'
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
@@ -76,7 +79,7 @@ jobs:
           PY
 
       - name: Kaggle
-        if: steps.commit.outputs.changed == 'true' || inputs.force
+        if: steps.commit.outputs.changed == 'true' || inputs.force || github.event_name == 'push'
         env:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}

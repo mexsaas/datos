@@ -86,7 +86,7 @@ jobs:
           KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
         run: |
           if [ -z "$KAGGLE_KEY" ] && [ -z "$KAGGLE_API_TOKEN" ]; then echo "Sin token de Kaggle: se omite."; exit 0; fi
-          pip install --quiet kaggle
+          pip install --quiet kaggle six # kaggle 2.2.5 imports six without declaring it
           id="${KAGGLE_DATASET:-mexsaas/software-usado-en-mexico}"
           if kaggle datasets status "$id" >/dev/null 2>&1; then
             kaggle datasets version -p build/kaggle -m "Datos al $(jq -r .version datapackage.json)"

@@ -7,7 +7,7 @@
  },
  "atribucion": "Fuente: mexsaas (www.mexsaas.com)",
  "datos_al": "2026-11-01",
- "total": 307,
+ "total": 326,
  "productos": [
   {
    "slug": "100-ladrillos",
@@ -130,7 +130,7 @@
     "whatsapp",
     "correo"
    ],
-   "puntos_mes": 64,
+   "puntos_mes": 65,
    "sitio_web": "https://99minutos.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/99minutos",
    "datos_revisados": "2026-10-01"
@@ -276,6 +276,52 @@
    "datos_revisados": "2026-10-02"
   },
   {
+   "slug": "airtable",
+   "nombre": "Airtable",
+   "que_hace": "Bases de datos y apps de trabajo sin programar",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 2012,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 20,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Bases y registros personalizables",
+    "Diseñador de interfaces",
+    "Vistas de Gantt y cronograma",
+    "Automatizaciones",
+    "Créditos de IA mensuales",
+    "Sincronización con otras fuentes"
+   ],
+   "integraciones": [
+    "Slack",
+    "Google Drive",
+    "Salesforce",
+    "Jira",
+    "Zendesk"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://airtable.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/airtable",
+   "datos_revisados": "2026-11-07"
+  },
+  {
    "slug": "albo",
    "nombre": "albo",
    "que_hace": "Cuenta digital y tarjeta para personas y empresas",
@@ -364,10 +410,49 @@
     "telefono",
     "whatsapp"
    ],
-   "puntos_mes": 82,
+   "puntos_mes": 83,
    "sitio_web": "https://alegra.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/alegra",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "alus",
+   "nombre": "ALUS",
+   "que_hace": "Plataforma para programas de incentivos empresariales",
+   "categoria": "Ventas y CRM",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [],
+   "tareas": [
+    "reclutar",
+    "cobrar"
+   ],
+   "funciones": [
+    "Implementación en 48 horas",
+    "Catálogo de premios",
+    "Premios deducibles de impuestos",
+    "Soporte y monitoreo",
+    "Métricas en tiempo real",
+    "Administrar programas de incentivos"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://alus.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/alus",
+   "datos_revisados": "2026-11-04"
   },
   {
    "slug": "aplazo",
@@ -537,7 +622,7 @@
     "chat",
     "correo"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 1,
    "sitio_web": "https://nomina.artostudio.ai",
    "ficha_mexsaas": "https://www.mexsaas.com/p/arto-nomina",
    "datos_revisados": "2026-10-26"
@@ -826,6 +911,45 @@
    "sitio_web": "https://base.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/base",
    "datos_revisados": "2026-10-11"
+  },
+  {
+   "slug": "basecamp",
+   "nombre": "Basecamp",
+   "que_hace": "Proyectos, tareas y mensajes del equipo con precio fijo",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 29,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "freelancers",
+    "pymes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "comunicacion-equipo"
+   ],
+   "funciones": [
+    "Tablero de mensajes",
+    "Listas de tareas",
+    "Calendario de fechas límite",
+    "Archivos y documentos",
+    "Hill charts de avance",
+    "API y CLI para agentes de IA"
+   ],
+   "integraciones": [],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://basecamp.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/basecamp",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "belvo",
@@ -2189,7 +2313,7 @@
    "slug": "comercio-simple",
    "nombre": "Comercio Simple",
    "que_hace": "Software para tiendas con inventario y punto de venta",
-   "categoria": "Ventas y CRM",
+   "categoria": "E-commerce",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": null,
@@ -2795,6 +2919,32 @@
    "sitio_web": "https://crabi.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/crabi",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "creditea",
+   "nombre": "Creditea",
+   "que_hace": "Financiamiento y soluciones para e-commerce",
+   "categoria": "Finanzas",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [],
+   "tareas": [],
+   "funciones": [],
+   "integraciones": [],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://creditea.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/creditea",
+   "datos_revisados": "2026-11-05"
   },
   {
    "slug": "crehana",
@@ -4004,7 +4154,7 @@
    "slug": "evaai",
    "nombre": "EvaAI",
    "que_hace": "Empleados digitales que toman acción por tu empresa",
-   "categoria": "Ventas y CRM",
+   "categoria": "Inteligencia artificial",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": null,
@@ -4497,7 +4647,7 @@
     "chat",
     "correo"
    ],
-   "puntos_mes": 80,
+   "puntos_mes": 81,
    "sitio_web": "https://fiscalcloud.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/fiscalcloud",
    "datos_revisados": "2026-10-01"
@@ -5656,6 +5806,55 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "jira",
+   "nombre": "Jira",
+   "que_hace": "Seguimiento de proyectos e incidencias para equipos de software",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 9.7,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "desarrolladores",
+    "startups",
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Backlog, tablero y cronograma",
+    "Flujos de trabajo personalizables",
+    "Campos personalizados",
+    "Automatizaciones por plan",
+    "Agentes y búsqueda con IA (Rovo)",
+    "Apps para Android e iOS"
+   ],
+   "integraciones": [
+    "Confluence",
+    "Trello",
+    "Bitbucket",
+    "Slack",
+    "Loom",
+    "Tempo Timesheets",
+    "Zephyr"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://www.atlassian.com/es/software/jira",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/jira",
+   "datos_revisados": "2026-11-07"
+  },
+  {
    "slug": "kai",
    "nombre": "kAI",
    "que_hace": "Agentes de IA en WhatsApp para automatizar procesos",
@@ -6200,7 +6399,7 @@
    "slug": "kuona",
    "nombre": "Kuona",
    "que_hace": "IA para precios y promociones en retail",
-   "categoria": "Ventas y CRM",
+   "categoria": "Analítica y datos",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": "Monterrey",
@@ -6405,15 +6604,15 @@
    "slug": "leal-360",
    "nombre": "Leal 360",
    "que_hace": "Plataforma de fidelización y marketing para retail",
-   "categoria": "Ventas y CRM",
+   "categoria": "Marketing",
    "otras_categorias": [],
    "pais": "Colombia",
    "ciudad": null,
    "fundada": null,
    "verificado": false,
-   "precio_desde_mxn": 15,
+   "precio_desde_mxn": null,
    "precio_desde_usd": null,
-   "periodo_precio": "mes",
+   "periodo_precio": null,
    "plan_gratis": null,
    "prueba_gratis": true,
    "app_movil": true,
@@ -6454,6 +6653,53 @@
    "sitio_web": "https://leal.co",
    "ficha_mexsaas": "https://www.mexsaas.com/p/leal-360",
    "datos_revisados": "2026-10-17"
+  },
+  {
+   "slug": "lealify",
+   "nombre": "Lealify",
+   "que_hace": "Programa de lealtad digital para negocios",
+   "categoria": "Ventas y CRM",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 2500,
+   "precio_desde_usd": null,
+   "periodo_precio": "año",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "restaurantes",
+    "pymes",
+    "freelancers"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "cobrar",
+    "reclutar"
+   ],
+   "funciones": [
+    "Kiosco fácil de usar",
+    "Registro por número de teléfono",
+    "Avisos automáticos por WhatsApp",
+    "Analíticas de visitas",
+    "Campañas a clientes",
+    "Clientes inactivos"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "Mercado Pago"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://lealify.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/lealify",
+   "datos_revisados": "2026-11-08"
   },
   {
    "slug": "legalario",
@@ -6580,6 +6826,54 @@
    "sitio_web": "https://lexgo.com.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/lexgo",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "linear",
+   "nombre": "Linear",
+   "que_hace": "Planeación de producto y seguimiento de incidencias para software",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 2019,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "desarrolladores",
+    "startups"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Incidencias, proyectos y ciclos",
+    "Iniciativas",
+    "Solicitudes de clientes",
+    "Agente de IA (Linear Agent)",
+    "API, webhooks y MCP",
+    "Apps para iOS y Android"
+   ],
+   "integraciones": [
+    "GitHub",
+    "GitLab",
+    "Slack",
+    "Figma",
+    "Intercom",
+    "Zendesk",
+    "Sentry",
+    "Microsoft Teams"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://linear.app",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/linear",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "listo",
@@ -7339,7 +7633,7 @@
    "soporte": [
     "correo"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 150,
    "sitio_web": "https://mesivia.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/mesivia",
    "datos_revisados": "2026-11-02"
@@ -7441,6 +7735,51 @@
    "sitio_web": "https://microsip.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/microsip",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "microsoft-planner",
+   "nombre": "Microsoft Planner",
+   "que_hace": "Tareas y proyectos en equipo dentro de Microsoft 365 y Teams",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos"
+   ],
+   "funciones": [
+    "Vistas de cuadrícula, tablero y calendario",
+    "Cronología tipo Gantt (Plan 1)",
+    "Backlog y sprints (Plan 1)",
+    "Dependencias entre tareas",
+    "Carteras y ruta crítica (Plan 3)",
+    "Agente de IA con Copilot (complemento)"
+   ],
+   "integraciones": [
+    "Microsoft Teams",
+    "Outlook",
+    "Power Automate",
+    "Microsoft Loop",
+    "Microsoft 365 Copilot",
+    "Project"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://www.microsoft.com/es-mx/microsoft-365/planner/microsoft-planner",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/microsoft-planner",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "mienvio",
@@ -7629,7 +7968,7 @@
    ],
    "integraciones": [],
    "soporte": [],
-   "puntos_mes": 65,
+   "puntos_mes": 66,
    "sitio_web": "https://minu.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/minu",
    "datos_revisados": "2026-10-01"
@@ -8167,7 +8506,7 @@
     "correo",
     "telefono"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 1,
    "sitio_web": "https://neogaleno.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/neogaleno",
    "datos_revisados": "2026-10-08"
@@ -8267,6 +8606,51 @@
    "sitio_web": "https://netsuite.com.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/netsuite",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "newsoft",
+   "nombre": "NewSoft",
+   "que_hace": "Desarrollo de software a la medida y aplicaciones",
+   "categoria": "Desarrollo y APIs",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "startups",
+    "agencias"
+   ],
+   "tareas": [],
+   "funciones": [
+    "AI-assisted engineering",
+    "Mantenimiento 24/7",
+    "Código de propiedad",
+    "Discovery gratuito",
+    "Plataformas SaaS",
+    "Agentes de IA a medida"
+   ],
+   "integraciones": [
+    "SAT",
+    "WhatsApp",
+    "Stripe",
+    "Shopify"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://newsoft.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/newsoft",
+   "datos_revisados": "2026-11-06"
   },
   {
    "slug": "nimbo",
@@ -9195,7 +9579,7 @@
    "slug": "point",
    "nombre": "Point",
    "que_hace": "Software punto de venta en la nube",
-   "categoria": "Ventas y CRM",
+   "categoria": "E-commerce",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": null,
@@ -9604,7 +9988,7 @@
    "slug": "pulpos",
    "nombre": "Pulpos",
    "que_hace": "Sistema de punto de venta para gestionar tu negocio",
-   "categoria": "Ventas y CRM",
+   "categoria": "E-commerce",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": null,
@@ -9688,7 +10072,7 @@
    "soporte": [
     "correo"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 1,
    "sitio_web": "https://purobarber.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/purobarber",
    "datos_revisados": "2026-10-18"
@@ -10289,6 +10673,51 @@
    "sitio_web": "https://runahr.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/runa",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "runrun-it",
+   "nombre": "Runrun.it",
+   "que_hace": "Gestión de proyectos y procesos con tableros, flujos e IA",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "Brasil",
+   "ciudad": null,
+   "fundada": 2013,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Tableros kanban y listas",
+    "Flujos de aprobación",
+    "Formularios y portales",
+    "Campos personalizados",
+    "Agentes de IA",
+    "Paneles e informes"
+   ],
+   "integraciones": [
+    "Power BI"
+   ],
+   "soporte": [
+    "chat",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://runrun.it",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/runrun-it",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "saeko",
@@ -11049,6 +11478,54 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "smartsheet",
+   "nombre": "Smartsheet",
+   "que_hace": "Hojas de trabajo, Gantt y automatizaciones para proyectos",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 2005,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 12,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Vistas de cuadrícula, Gantt y tablero",
+    "Fórmulas avanzadas",
+    "Formularios y reportes",
+    "Automatizaciones",
+    "Colaboradores ilimitados sin costo",
+    "Funciones de IA conversacional"
+   ],
+   "integraciones": [
+    "Microsoft 365",
+    "Google Workspace",
+    "Slack",
+    "Microsoft Teams",
+    "Adobe Creative Cloud",
+    "Power BI",
+    "Tableau",
+    "Docusign"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://smartsheet.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/smartsheet",
+   "datos_revisados": "2026-11-07"
+  },
+  {
    "slug": "sofia-salud",
    "nombre": "Sofía",
    "que_hace": "Seguro de gastos médicos para empresas y personas",
@@ -11183,15 +11660,16 @@
    "verificado": false,
    "precio_desde_mxn": null,
    "precio_desde_usd": null,
-   "periodo_precio": null,
+   "periodo_precio": "por uso",
    "plan_gratis": null,
    "prueba_gratis": null,
    "app_movil": true,
    "para": [],
    "tareas": [],
    "funciones": [
-    "Cuenta digital",
+    "Cuenta digital en tres niveles",
     "Tarjeta de débito Visa",
+    "Depósitos y retiros en OXXO",
     "Pagos con QR",
     "Recargas de saldo",
     "Envío de dinero",
@@ -11207,7 +11685,7 @@
    "puntos_mes": 0,
    "sitio_web": "https://spinbyoxxo.com.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/spin-by-oxxo",
-   "datos_revisados": "2026-10-08"
+   "datos_revisados": "2026-11-08"
   },
   {
    "slug": "stori",
@@ -11482,6 +11960,105 @@
    "datos_revisados": "2026-10-03"
   },
   {
+   "slug": "taplink",
+   "nombre": "Taplink",
+   "que_hace": "Crea un sitio web a tu medida en pocos clics",
+   "categoria": "Colaboración",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 60,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "freelancers",
+    "pymes"
+   ],
+   "tareas": [
+    "cobrar",
+    "gestionar-proyectos",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "enlaces ilimitados",
+    "plantillas profesionales",
+    "análisis de clics",
+    "formularios personalizados",
+    "integración de redes sociales",
+    "recibir notificaciones de nuevos pedidos"
+   ],
+   "integraciones": [
+    "Instagram",
+    "Facebook",
+    "WhatsApp",
+    "Telegram",
+    "YouTube",
+    "Twitter",
+    "LinkedIn",
+    "Stripe"
+   ],
+   "soporte": [
+    "whatsapp",
+    "chat",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://taplink.at",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/taplink",
+   "datos_revisados": "2026-11-09"
+  },
+  {
+   "slug": "teamwork",
+   "nombre": "Teamwork.com",
+   "que_hace": "Gestión de proyectos y horas facturables para agencias",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "IE",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 9.99,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "agencias",
+    "pymes"
+   ],
+   "tareas": [
+    "gestionar-proyectos"
+   ],
+   "funciones": [
+    "Vistas Gantt, tabla, lista y tablero",
+    "Registro de horas facturables",
+    "Plantillas ilimitadas",
+    "Capacidad y carga de trabajo",
+    "Facturas desde horas registradas",
+    "Asistentes de IA"
+   ],
+   "integraciones": [
+    "HubSpot",
+    "QuickBooks",
+    "Salesforce",
+    "NetSuite",
+    "Claude",
+    "ChatGPT"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://teamwork.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/teamwork",
+   "datos_revisados": "2026-11-07"
+  },
+  {
    "slug": "tiendanube",
    "nombre": "Tiendanube",
    "que_hace": "Crea tu tienda en línea",
@@ -11572,6 +12149,53 @@
    "sitio_web": "https://tippy.com.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/tippy",
    "datos_revisados": "2026-10-11"
+  },
+  {
+   "slug": "todoist",
+   "nombre": "Todoist",
+   "que_hace": "Lista de tareas y proyectos para personas y equipos",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 7,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "freelancers",
+    "pymes"
+   ],
+   "tareas": [
+    "gestionar-proyectos"
+   ],
+   "funciones": [
+    "Vistas de lista, tablero y calendario",
+    "Filtros personalizados",
+    "Recordatorios personalizados",
+    "Espacio de equipo compartido",
+    "Plantillas compartidas",
+    "Asistente de tareas con IA"
+   ],
+   "integraciones": [
+    "Google Calendar",
+    "Slack",
+    "Microsoft Teams",
+    "Zapier",
+    "Make",
+    "Jira",
+    "Claude",
+    "ChatGPT"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://todoist.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/todoist",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "tokko-broker",
@@ -11964,6 +12588,55 @@
    "sitio_web": "https://tuidentidad.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/tu-identidad",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "tufacturapro",
+   "nombre": "TuFacturaPro",
+   "que_hace": "Convierte tus tickets en facturas CFDI 4.0",
+   "categoria": "Pagos",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 199,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "constructoras",
+    "tienditas",
+    "freelancers"
+   ],
+   "tareas": [
+    "facturar",
+    "cobrar",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Carga tickets manual y por Excel",
+    "Portal de autofacturación 24/7",
+    "Validación de cada ticket",
+    "Crea tu cuenta sin tarjeta",
+    "Negocios y sucursales ilimitadas",
+    "Carga manual y por Excel de tickets"
+   ],
+   "integraciones": [
+    "SAT",
+    "WhatsApp",
+    "Google",
+    "Stripe"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://tufacturapro.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/tufacturapro",
+   "datos_revisados": "2026-11-04"
   },
   {
    "slug": "tukan",
@@ -12493,6 +13166,55 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "vigialegal",
+   "nombre": "VigíaLegal",
+   "que_hace": "Validación de documentos y cumplimiento REPSE",
+   "categoria": "Desarrollo y APIs",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "constructoras",
+    "pymes",
+    "agencias"
+   ],
+   "tareas": [],
+   "funciones": [
+    "Validación de documentos",
+    "Control de acceso",
+    "Bitácora de decisiones",
+    "Monitoreo de cumplimiento",
+    "Generación de actas de servicio",
+    "Alertas de regulaciones"
+   ],
+   "integraciones": [
+    "SAT",
+    "IMSS",
+    "INFONAVIT",
+    "STPS",
+    "SAP",
+    "Oracle",
+    "Coupa",
+    "Ariba"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://vigialegal.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/vigialegal",
+   "datos_revisados": "2026-11-04"
+  },
+  {
    "slug": "villanett",
    "nombre": "Villanett",
    "que_hace": "ERP en la nube para pymes: ventas, inventario y nómina",
@@ -12631,7 +13353,7 @@
    "slug": "vorta",
    "nombre": "Vorta",
    "que_hace": "Gestión de negocios con asistencia de IA",
-   "categoria": "Ventas y CRM",
+   "categoria": "E-commerce",
    "otras_categorias": [],
    "pais": "México",
    "ciudad": null,
@@ -13090,10 +13812,59 @@
    "soporte": [
     "whatsapp"
    ],
-   "puntos_mes": 82,
+   "puntos_mes": 83,
    "sitio_web": "https://worky.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/worky",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "wrike",
+   "nombre": "Wrike",
+   "que_hace": "Gestión de proyectos y recursos para marketing y servicios",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 2006,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Diagramas de Gantt",
+    "Formularios de solicitud",
+    "Revisión y aprobación de archivos",
+    "Gestión de recursos",
+    "Automatización de flujos",
+    "Agentes de IA y Copilot"
+   ],
+   "integraciones": [
+    "Slack",
+    "Microsoft Teams",
+    "Google",
+    "Salesforce",
+    "HubSpot",
+    "Adobe",
+    "Jira",
+    "GitHub"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://wrike.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/wrike",
+   "datos_revisados": "2026-11-07"
   },
   {
    "slug": "xepelin",
@@ -13523,6 +14294,54 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "zoho-projects",
+   "nombre": "Zoho Projects",
+   "que_hace": "Gestión de proyectos con horas y presupuestos, gratis hasta 5 usuarios",
+   "categoria": "Productividad",
+   "otras_categorias": [],
+   "pais": "IN",
+   "ciudad": null,
+   "fundada": 1996,
+   "verificado": false,
+   "precio_desde_mxn": 90,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Proyectos, tareas y subtareas",
+    "Registro de horas y planillas",
+    "Presupuesto de proyectos",
+    "Blueprint de tareas",
+    "Asistente de IA Zia",
+    "Apps para iOS y Android"
+   ],
+   "integraciones": [
+    "Zoho CRM",
+    "Zoho Books",
+    "Zoho Desk",
+    "Slack",
+    "Microsoft Teams",
+    "Office 365",
+    "GitHub",
+    "Zapier"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://www.zoho.com/es-xl/projects/",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/zoho-projects",
+   "datos_revisados": "2026-11-07"
+  },
+  {
    "slug": "zoom",
    "nombre": "Zoom",
    "que_hace": "Videollamadas, chat y telefonía para empresas",
@@ -13602,6 +14421,56 @@
    "sitio_web": "https://zubale.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/zubale",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "zuvet",
+   "nombre": "Zuvet",
+   "que_hace": "Sistema y agenda por WhatsApp para veterinarias",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 590,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "hoteles",
+    "consultorios-medicos",
+    "tiendas-en-linea"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "atencion-clientes",
+    "firmar-contratos"
+   ],
+   "funciones": [
+    "Agenda por área",
+    "Expediente por mascota",
+    "IA para atención 24/7",
+    "Agenda y calendario global",
+    "Expediente con alertas",
+    "Recordatorios por WhatsApp"
+   ],
+   "integraciones": [
+    "WhatsApp Business",
+    "Stripe",
+    "WhatsApp",
+    "MCP",
+    "Webhooks"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://zuvet.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/zuvet",
+   "datos_revisados": "2026-11-04"
   }
  ]
 }

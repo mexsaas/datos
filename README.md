@@ -21,7 +21,7 @@ configs:
 
 # Software usado en México
 
-Directorio abierto del software que usan los negocios en México: **307 productos** con categoría, país de origen,
+Directorio abierto del software que usan los negocios en México: **326 productos** con categoría, país de origen,
 precio de entrada en pesos, plan gratis, soporte y puntos del ranking orgánico. Lo mantiene
 [mexsaas](https://www.mexsaas.com), el directorio y ranking del software que se usa en México.
 
@@ -104,7 +104,7 @@ escribe a hola@mexsaas.com. Los cambios llegan a este repositorio en la siguient
 
 ## English
 
-Open dataset of the software used by businesses in Mexico (307 products): category, country of origin, entry
+Open dataset of the software used by businesses in Mexico (326 products): category, country of origin, entry
 price in Mexican pesos, free plan, support channels and organic ranking points, maintained by
 [mexsaas](https://www.mexsaas.com) and refreshed weekly. Column names and values are in Spanish; `datapackage.json`
 describes every column. License CC BY 4.0: attribute "mexsaas" with a link to https://www.mexsaas.com/datos.

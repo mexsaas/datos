@@ -7,7 +7,7 @@
  },
  "atribucion": "Fuente: mexsaas (www.mexsaas.com)",
  "datos_al": "2026-11-01",
- "total": 326,
+ "total": 337,
  "productos": [
   {
    "slug": "100-ladrillos",
@@ -622,7 +622,7 @@
     "chat",
     "correo"
    ],
-   "puntos_mes": 1,
+   "puntos_mes": 2,
    "sitio_web": "https://nomina.artostudio.ai",
    "ficha_mexsaas": "https://www.mexsaas.com/p/arto-nomina",
    "datos_revisados": "2026-10-26"
@@ -1427,7 +1427,7 @@
     "telefono",
     "whatsapp"
    ],
-   "puntos_mes": 66,
+   "puntos_mes": 67,
    "sitio_web": "https://buk.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/buk",
    "datos_revisados": "2026-10-01"
@@ -1823,6 +1823,51 @@
    "sitio_web": "https://chatgpt.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/chatgpt",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "checadia",
+   "nombre": "ChecaDía",
+   "que_hace": "Reloj checador en línea para el registro de jornada",
+   "categoria": "RH y nómina",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 299,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "constructoras",
+    "escuelas"
+   ],
+   "tareas": [
+    "atender-whatsapp",
+    "cobrar"
+   ],
+   "funciones": [
+    "Gratis hasta 3 personas",
+    "Sin instalación",
+    "Revisión de incidencias",
+    "Exportación en PDF y Excel",
+    "Acceso personal con PIN",
+    "Hasta 15 plazas en el plan Negocio"
+   ],
+   "integraciones": [
+    "Stripe"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://checadia.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/checadia",
+   "datos_revisados": "2026-11-10"
   },
   {
    "slug": "cincel",
@@ -2224,6 +2269,58 @@
    "sitio_web": "https://colektia.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/colektia",
    "datos_revisados": "2026-10-09"
+  },
+  {
+   "slug": "colibly",
+   "nombre": "Colibly",
+   "que_hace": "CRM de WhatsApp con IA para negocios de México",
+   "categoria": "Ventas y CRM",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 59,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "constructoras",
+    "tienditas"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "agendar-citas",
+    "crm-ventas"
+   ],
+   "funciones": [
+    "Respuestas automáticas",
+    "Bandeja unificada",
+    "Asignación de chats",
+    "Canales unificados",
+    "CRM y embudo de ventas",
+    "Automatizaciones con IA"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "Instagram",
+    "Messenger",
+    "Telegram",
+    "Google Sheets",
+    "Meta Ads",
+    "chat web"
+   ],
+   "soporte": [
+    "correo",
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://colibly.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/colibly",
+   "datos_revisados": "2026-11-09"
   },
   {
    "slug": "collabify",
@@ -2807,6 +2904,51 @@
    "sitio_web": "https://copomex.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/copomex",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "cotivaro",
+   "nombre": "Cotivaro",
+   "que_hace": "Cotizaciones para negocios de servicios",
+   "categoria": "Ventas y CRM",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 199,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "constructoras",
+    "pymes",
+    "freelancers"
+   ],
+   "tareas": [
+    "cobrar",
+    "agendar-citas",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Cotizaciones con firma",
+    "Seguimiento de visitas",
+    "Registro de cobros",
+    "Gestión de solicitudes",
+    "Cotizaciones con seguimiento",
+    "Agenda y trabajos del técnico"
+   ],
+   "integraciones": [
+    "WhatsApp"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://cotivaro.xyz",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/cotivaro",
+   "datos_revisados": "2026-11-15"
   },
   {
    "slug": "cotizaciones-al-instante",
@@ -3749,6 +3891,50 @@
    "datos_revisados": "2026-10-11"
   },
   {
+   "slug": "dsoft",
+   "nombre": "dSoft",
+   "que_hace": "Fábrica de soluciones contables, fiscales y administrativas",
+   "categoria": "Contabilidad",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 1250,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "contadores",
+    "pymes",
+    "freelancers"
+   ],
+   "tareas": [
+    "facturar",
+    "contabilidad"
+   ],
+   "funciones": [
+    "Administración de CFDIs",
+    "Monitoreo de cumplimiento tributario",
+    "Generación de pólizas"
+   ],
+   "integraciones": [
+    "SAT",
+    "Microsoft Office",
+    "XML"
+   ],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://dsoft.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/dsoft",
+   "datos_revisados": "2026-11-12"
+  },
+  {
    "slug": "easybroker",
    "nombre": "EasyBroker",
    "que_hace": "CRM y bolsa inmobiliaria para asesores",
@@ -3882,6 +4068,55 @@
    "sitio_web": "https://ecart.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/ecart-pay",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "eleonor",
+   "nombre": "Eleonor",
+   "que_hace": "Directorio médico y expediente clínico electrónico",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "consultorios-medicos",
+    "dentistas",
+    "pymes"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "expediente-clinico",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Directorio médico",
+    "Expediente clínico electrónico",
+    "Programación de citas",
+    "gestión de expedientes electrónicos",
+    "colaboración en grupo",
+    "fácil de usar"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "Stripe",
+    "SAT"
+   ],
+   "soporte": [
+    "correo",
+    "telefono",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://eleonor.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/eleonor",
+   "datos_revisados": "2026-11-13"
   },
   {
    "slug": "eleventa",
@@ -4380,6 +4615,52 @@
    "sitio_web": "https://facturapi.io",
    "ficha_mexsaas": "https://www.mexsaas.com/p/facturapi",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "facturia",
+   "nombre": "FacturIA",
+   "que_hace": "Facturación de tickets con una foto",
+   "categoria": "Pagos",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 99,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "contadores",
+    "freelancers"
+   ],
+   "tareas": [
+    "facturar",
+    "atencion-clientes",
+    "agendar-citas"
+   ],
+   "funciones": [
+    "Facturación en línea",
+    "Recupera CFDI al instante",
+    "Soporte técnico",
+    "Sin aplicaciones que descargar",
+    "Privacidad de datos",
+    "Rápida recuperación de tickets"
+   ],
+   "integraciones": [
+    "WhatsApp"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://facturia.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/facturia",
+   "datos_revisados": "2026-11-11"
   },
   {
    "slug": "feenicia",
@@ -5439,6 +5720,56 @@
    "sitio_web": "https://hubspot.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/hubspot",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "huli",
+   "nombre": "Huli",
+   "que_hace": "Plataforma médica con IA para consultorios de salud",
+   "categoria": "Salud",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 472,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "consultorios-medicos",
+    "pymes"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "expediente-clinico",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Agenda médica",
+    "Expedientes clínicos personalizados",
+    "Recordatorios automáticos por WhatsApp",
+    "Administración de citas",
+    "Recordatorios de citas",
+    "Gestión de expedientes clínicos"
+   ],
+   "integraciones": [
+    "Google Cloud",
+    "WhatsApp",
+    "Stripe",
+    "SAT"
+   ],
+   "soporte": [
+    "correo",
+    "telefono",
+    "chat",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://www.hulipractice.com/mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/huli",
+   "datos_revisados": "2026-11-15"
   },
   {
    "slug": "humand",
@@ -7458,6 +7789,99 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "medis365",
+   "nombre": "Medis365",
+   "que_hace": "Expediente clínico y gestión médica",
+   "categoria": "Salud",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 467,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "consultorios-medicos",
+    "dentistas",
+    "pymes"
+   ],
+   "tareas": [
+    "expediente-clinico",
+    "agendar-citas",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Multiusuario y sucursales",
+    "Dictado inteligente a SOAP",
+    "Análisis de imágenes médicas"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "COFEPRIS"
+   ],
+   "soporte": [
+    "whatsapp",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://medis365.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/medis365",
+   "datos_revisados": "2026-11-16"
+  },
+  {
+   "slug": "medisel",
+   "nombre": "MediSel",
+   "que_hace": "Plataforma de expediente clínico electrónico",
+   "categoria": "Salud",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 450,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "consultorios-medicos",
+    "dentistas",
+    "salones-de-belleza"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "firmar-contratos",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Asistente de IA",
+    "Cobro en línea",
+    "Agenda multiusuario",
+    "Recetas electrónicas",
+    "Notas médicas con IA",
+    "Telemedicina"
+   ],
+   "integraciones": [
+    "Google Calendar",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "whatsapp",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://expedienteclinico.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/medisel",
+   "datos_revisados": "2026-11-14"
+  },
+  {
    "slug": "mendel",
    "nombre": "Mendel",
    "que_hace": "Tarjetas corporativas y gastos",
@@ -7608,11 +8032,11 @@
    "ciudad": null,
    "fundada": null,
    "verificado": false,
-   "precio_desde_mxn": 499,
+   "precio_desde_mxn": 99,
    "precio_desde_usd": null,
    "periodo_precio": "mes",
-   "plan_gratis": null,
-   "prueba_gratis": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
    "app_movil": null,
    "para": [
     "restaurantes"
@@ -7633,7 +8057,7 @@
    "soporte": [
     "correo"
    ],
-   "puntos_mes": 150,
+   "puntos_mes": 326,
    "sitio_web": "https://mesivia.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/mesivia",
    "datos_revisados": "2026-11-02"
@@ -7968,7 +8392,7 @@
    ],
    "integraciones": [],
    "soporte": [],
-   "puntos_mes": 66,
+   "puntos_mes": 67,
    "sitio_web": "https://minu.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/minu",
    "datos_revisados": "2026-10-01"
@@ -10669,7 +11093,7 @@
     "SAT"
    ],
    "soporte": [],
-   "puntos_mes": 68,
+   "puntos_mes": 69,
    "sitio_web": "https://runahr.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/runa",
    "datos_revisados": "2026-10-01"
@@ -10972,6 +11396,49 @@
    "sitio_web": "https://savio.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/savio",
    "datos_revisados": "2026-10-11"
+  },
+  {
+   "slug": "sello",
+   "nombre": "Sello",
+   "que_hace": "Tarjetas de sellos para fidelizar clientes",
+   "categoria": "WhatsApp y chat",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 349,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "restaurantes",
+    "salones-de-belleza",
+    "gimnasios"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "cobrar",
+    "agendar-citas"
+   ],
+   "funciones": [
+    "Tarjetas digitales sin app",
+    "Recordatorios por WhatsApp",
+    "Sistema de sellos",
+    "Sin comisiones por visita",
+    "Plan gratuito disponible",
+    "Pago solo por tarjetas entregadas"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://sello.club",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/sello",
+   "datos_revisados": "2026-11-15"
   },
   {
    "slug": "sesame-hr",
@@ -11304,6 +11771,48 @@
    "sitio_web": "https://simpliroute.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/simpliroute",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "sirvo",
+   "nombre": "Sirvo",
+   "que_hace": "Automatiza tu restaurante y mejora tu servicio",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 499,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "restaurantes"
+   ],
+   "tareas": [
+    "punto-de-venta",
+    "atencion-clientes",
+    "agendar-citas"
+   ],
+   "funciones": [
+    "Radar de mesas en vivo",
+    "Pantalla de cocina",
+    "Pedidos y pagos desde la mesa",
+    "Métricas de servicio",
+    "Programa de lealtad",
+    "Perfil de cocina"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 180,
+   "sitio_web": "https://sirvoapp.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/sirvo",
+   "datos_revisados": "2026-11-09"
   },
   {
    "slug": "siteminder",
@@ -12633,7 +13142,7 @@
     "correo",
     "telefono"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 150,
    "sitio_web": "https://tufacturapro.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/tufacturapro",
    "datos_revisados": "2026-11-04"
@@ -13082,7 +13591,7 @@
     "Odoo"
    ],
    "soporte": [],
-   "puntos_mes": 75,
+   "puntos_mes": 76,
    "sitio_web": "https://ventiapp.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/ventiapp",
    "datos_revisados": "2026-10-01"

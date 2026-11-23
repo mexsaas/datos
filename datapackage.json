@@ -39,7 +39,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 337,
+      "rows": 411,
       "schema": {
         "fields": [
           {

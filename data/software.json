@@ -7,7 +7,7 @@
  },
  "atribucion": "Fuente: mexsaas (www.mexsaas.com)",
  "datos_al": "2026-11-01",
- "total": 337,
+ "total": 412,
  "productos": [
   {
    "slug": "100-ladrillos",
@@ -455,6 +455,53 @@
    "datos_revisados": "2026-11-04"
   },
   {
+   "slug": "ambit-delivery",
+   "nombre": "Ambit Delivery",
+   "que_hace": "Envíos con repartidores de Rappi y Uber por mensualidad y tarifa",
+   "categoria": "Logística y envíos",
+   "otras_categorias": [
+    "Restaurantes"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": 2006,
+   "verificado": false,
+   "precio_desde_mxn": 2300,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "restaurantes",
+    "farmacias"
+   ],
+   "tareas": [
+    "enviar-paquetes"
+   ],
+   "funciones": [
+    "Repartidores de Rappi y Uber",
+    "Sin comisión sobre la venta",
+    "Seguimiento de pedidos",
+    "Protección por envío incluida",
+    "Planes de 50 a 500 envíos",
+    "Envíos que caben en mochila 40x40"
+   ],
+   "integraciones": [
+    "Rappi",
+    "Uber Direct"
+   ],
+   "soporte": [
+    "whatsapp",
+    "chat",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://ambit.la",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/ambit-delivery",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "aplazo",
    "nombre": "Aplazo",
    "que_hace": "Compra hoy y paga a plazos sin tarjeta de crédito",
@@ -810,6 +857,51 @@
    "datos_revisados": "2026-10-01"
   },
   {
+   "slug": "autopaquete",
+   "nombre": "Autopaquete",
+   "que_hace": "Compara paqueterías y genera guías en segundos",
+   "categoria": "Logística y envíos",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "tiendas-en-linea",
+    "constructoras"
+   ],
+   "tareas": [
+    "facturar"
+   ],
+   "funciones": [
+    "Comparar paqueterías",
+    "Rastreo en tiempo real",
+    "Ejecutivo dedicado"
+   ],
+   "integraciones": [
+    "Shopify",
+    "WooCommerce",
+    "Tiendanube",
+    "Mercado Libre",
+    "API propia"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://autopaquete.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/autopaquete",
+   "datos_revisados": "2026-11-18"
+  },
+  {
    "slug": "b2chat",
    "nombre": "B2Chat",
    "que_hace": "WhatsApp, redes y chat web en una bandeja multiagente",
@@ -986,10 +1078,52 @@
    "soporte": [
     "correo"
    ],
-   "puntos_mes": 69,
+   "puntos_mes": 70,
    "sitio_web": "https://belvo.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/belvo",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "bigquery",
+   "nombre": "BigQuery",
+   "que_hace": "Almacén de datos en la nube de Google, con región en México",
+   "categoria": "Analítica y datos",
+   "otras_categorias": [
+    "Desarrollo y APIs"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 6.25,
+   "periodo_precio": "por uso",
+   "plan_gratis": true,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "desarrolladores",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Consultas SQL sin servidores",
+    "Pago por TiB procesado",
+    "Capacidad reservada opcional",
+    "Región de datos en México",
+    "Gemini en BigQuery"
+   ],
+   "integraciones": [
+    "Gemini"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://cloud.google.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/bigquery",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "billpocket",
@@ -1083,6 +1217,57 @@
    "sitio_web": "https://bind.com.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/bind-erp",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "bistrosoft",
+   "nombre": "Bistrosoft",
+   "que_hace": "Punto de venta para restaurantes, bares y cafeterías",
+   "categoria": "Restaurantes",
+   "otras_categorias": [],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 499,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "restaurantes"
+   ],
+   "tareas": [
+    "punto-de-venta",
+    "inventario",
+    "facturar",
+    "tienda-en-linea",
+    "lealtad-clientes"
+   ],
+   "funciones": [
+    "Comandas y control de mesas",
+    "Costos y recetas",
+    "Stock centralizado multilocal",
+    "Kiosco de autoservicio",
+    "Pantalla de cocina (KDS)",
+    "Integración con apps de delivery"
+   ],
+   "integraciones": [
+    "Mercado Pago",
+    "Clip",
+    "Uber Eats",
+    "Rappi",
+    "DiDi Food",
+    "Getnet",
+    "Deliverect"
+   ],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://bistrosoft.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/bistrosoft",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "bitdefender",
@@ -1215,6 +1400,58 @@
    "sitio_web": "https://bitso.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/bitso",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "blip",
+   "nombre": "Blip",
+   "que_hace": "Plataforma de agentes de IA y chatbots para WhatsApp y otros canales",
+   "categoria": "WhatsApp y chat",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "Brasil",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": true,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "pymes"
+   ],
+   "tareas": [
+    "atender-whatsapp",
+    "atencion-clientes",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Editor visual sin código",
+    "Agentes de IA con LLM",
+    "Procesamiento de lenguaje propio",
+    "Monitoreo de atención humana",
+    "Tableros de análisis",
+    "Integración por API y SDK"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "Instagram",
+    "Facebook Messenger",
+    "Apple Messages for Business",
+    "Microsoft Teams",
+    "Telegram",
+    "Google RCS"
+   ],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://blip.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/blip",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "boletia",
@@ -1524,6 +1761,56 @@
    "datos_revisados": "2026-10-01"
   },
   {
+   "slug": "campus-movil",
+   "nombre": "Campus Móvil",
+   "que_hace": "Plataforma de gestión escolar para colegios en México",
+   "categoria": "Educación",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "escuelas"
+   ],
+   "tareas": [
+    "cobrar",
+    "contabilidad",
+    "gestionar-proyectos"
+   ],
+   "funciones": [
+    "Gestión de control escolar",
+    "CRM de admisiones",
+    "Aplicación móvil",
+    "Sistema de pagos y facturación",
+    "Comunicación con padres",
+    "Reportes"
+   ],
+   "integraciones": [
+    "Google para la Educación",
+    "WhatsApp",
+    "Stripe",
+    "Facebook",
+    "Instagram"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://campusmovil.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/campus-movil",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "camtom",
    "nombre": "Camtom",
    "que_hace": "IA para clasificación arancelaria y pedimentos",
@@ -1606,6 +1893,95 @@
    "sitio_web": "https://canva.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/canva",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "canvas-lms",
+   "nombre": "Canvas LMS",
+   "que_hace": "Plataforma de cursos en línea (LMS) para escuelas y universidades",
+   "categoria": "Educación",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "escuelas",
+    "empresas-grandes"
+   ],
+   "tareas": [],
+   "funciones": [
+    "Cursos, tareas y calificaciones",
+    "Exámenes y entregas en línea",
+    "Credenciales digitales con Parchment",
+    "Herramientas de IA (IgniteAI)",
+    "Marketplace de integraciones",
+    "Cursos descargables sin conexión"
+   ],
+   "integraciones": [
+    "Turnitin",
+    "Google for Education",
+    "AWS",
+    "Inspera",
+    "BigBlueButton",
+    "Poll Everywhere",
+    "FeedbackFruits",
+    "Copyleaks"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://instructure.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/canvas-lms",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "capcut",
+   "nombre": "CapCut",
+   "que_hace": "Editor de video y diseño con plantillas, subtítulos automáticos e IA",
+   "categoria": "Diseño y contenido",
+   "otras_categorias": [
+    "Marketing"
+   ],
+   "pais": "SG",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 439,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "freelancers",
+    "agencias",
+    "pymes"
+   ],
+   "tareas": [
+    "disenar-contenido",
+    "redes-sociales"
+   ],
+   "funciones": [
+    "Editor de video con línea de tiempo",
+    "Subtítulos automáticos",
+    "Eliminador de fondos",
+    "Texto a voz y voces personalizadas",
+    "Plantillas prémium",
+    "Kit de marca en plan Teams"
+   ],
+   "integraciones": [
+    "ChatGPT"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://capcut.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/capcut",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "caret",
@@ -2054,6 +2430,61 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "cliengo",
+   "nombre": "Cliengo",
+   "que_hace": "Agentes de IA para vender y atender por WhatsApp, web e Instagram",
+   "categoria": "WhatsApp y chat",
+   "otras_categorias": [
+    "Ventas y CRM"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 119,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "inmobiliarias"
+   ],
+   "tareas": [
+    "atender-whatsapp",
+    "atencion-clientes",
+    "crm-ventas",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Bandeja multicanal",
+    "Agentes de IA 24/7",
+    "Campañas masivas de WhatsApp",
+    "CRM integrado",
+    "Copilot con resúmenes",
+    "API pública"
+   ],
+   "integraciones": [
+    "Google Ads",
+    "Google Sheets",
+    "Zapier",
+    "Shopify",
+    "Tiendanube",
+    "WordPress",
+    "Tokko Broker",
+    "Facebook Lead Ads"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://cliengo.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/cliengo",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "clientify",
    "nombre": "Clientify",
    "que_hace": "CRM con WhatsApp, automatización de marketing e IA",
@@ -2193,6 +2624,51 @@
    "sitio_web": "https://cloudbeds.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/cloudbeds",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "cloudfleet",
+   "nombre": "cloudFleet",
+   "que_hace": "Mantenimiento, combustible y llantas de tu flotilla en la nube",
+   "categoria": "Movilidad",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": 2007,
+   "verificado": false,
+   "precio_desde_mxn": 90,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "transportistas"
+   ],
+   "tareas": [
+    "inventario",
+    "gastos-empresa",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Planes de mantenimiento",
+    "Control de combustible",
+    "Gestión de llantas",
+    "Checklist desde la app",
+    "Compras e inventario",
+    "Viajes y anticipos"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "chat",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://cloudfleet.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/cloudfleet",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "clupp",
@@ -2951,6 +3427,41 @@
    "datos_revisados": "2026-11-15"
   },
   {
+   "slug": "cotiza",
+   "nombre": "Cotiza",
+   "que_hace": "Arma tu cotización con tu logo y precios",
+   "categoria": "Ventas y CRM",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 149,
+   "precio_desde_usd": null,
+   "periodo_precio": "pago único",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "freelancers"
+   ],
+   "tareas": [
+    "enviar-paquetes",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Crea cotizaciones personalizadas",
+    "Descarga en PDF",
+    "Envía por WhatsApp"
+   ],
+   "integraciones": [],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://cotizamx.codeberg.page",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/cotiza",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "cotizaciones-al-instante",
    "nombre": "Cotizaciones al Instante",
    "que_hace": "Crea cotizaciones personalizadas y compártelas",
@@ -3292,6 +3803,50 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "cyberlab",
+   "nombre": "CyberLab",
+   "que_hace": "Sistema en la nube para laboratorios clínicos",
+   "categoria": "Salud",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": "CDMX",
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": "por uso",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [],
+   "tareas": [
+    "inventario",
+    "facturar",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Interfaz con analizadores clínicos",
+    "Resultados por WhatsApp y SMS",
+    "Resultados en PDF con QR",
+    "Consulta en línea de resultados",
+    "Trazabilidad de muestras",
+    "Usuarios y sucursales ilimitados"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "PayPal",
+    "Excel"
+   ],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://cyber-lab.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/cyberlab",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "darwin-ai",
    "nombre": "Darwin AI",
    "que_hace": "Empleados digitales con IA para ventas y cobranza",
@@ -3437,6 +3992,56 @@
    "sitio_web": "https://datlas.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/datlas",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "deliverect",
+   "nombre": "Deliverect",
+   "que_hace": "Concentra los pedidos de Rappi, Uber Eats y DiDi Food en tu POS",
+   "categoria": "Restaurantes",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "BE",
+   "ciudad": null,
+   "fundada": 2018,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "restaurantes"
+   ],
+   "tareas": [
+    "automatizar-con-api",
+    "tienda-en-linea",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Pedidos de apps en un lugar",
+    "Menús sincronizados por canal",
+    "Pedidos en una tablet",
+    "Tienda propia por web",
+    "Gestión de repartidores propios",
+    "Monitoreo de tiendas 24/7"
+   ],
+   "integraciones": [
+    "DiDi Food",
+    "Rappi",
+    "Uber Eats",
+    "Micros RES 3700",
+    "PAR Pixel Point",
+    "Zetus",
+    "Justo",
+    "El Cheff"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://deliverect.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/deliverect",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "dentalink",
@@ -3794,6 +4399,58 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "doppler",
+   "nombre": "Doppler",
+   "que_hace": "Email marketing, automatización, SMS y WhatsApp para empresas",
+   "categoria": "Marketing",
+   "otras_categorias": [
+    "WhatsApp y chat"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "tiendas-en-linea",
+    "agencias"
+   ],
+   "tareas": [
+    "email-marketing",
+    "automatizar-marketing",
+    "atender-whatsapp"
+   ],
+   "funciones": [
+    "Campañas de email y test A/B",
+    "Flujos automatizados",
+    "Campañas de SMS",
+    "WhatsApp marketing y chatbots",
+    "Landing pages con editor drag & drop",
+    "Email transaccional por API y SMTP"
+   ],
+   "integraciones": [
+    "Shopify",
+    "WooCommerce",
+    "Tiendanube",
+    "Prestashop",
+    "Zapier",
+    "Facebook Lead Ads"
+   ],
+   "soporte": [
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://fromdoppler.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/doppler",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "dora",
    "nombre": "Dora",
    "que_hace": "Sistema contable y de facturación electrónica",
@@ -3889,6 +4546,57 @@
    "sitio_web": "https://drenvio.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/drenvio",
    "datos_revisados": "2026-10-11"
+  },
+  {
+   "slug": "dropbox",
+   "nombre": "Dropbox",
+   "que_hace": "Almacenamiento en la nube y archivos compartidos para equipos",
+   "categoria": "Colaboración",
+   "otras_categorias": [
+    "Productividad"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 2007,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 9.99,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "freelancers"
+   ],
+   "tareas": [
+    "comunicacion-equipo",
+    "proteger-informacion"
+   ],
+   "funciones": [
+    "Carpetas de equipo compartidas",
+    "Restauración de archivos borrados",
+    "Transferencias de hasta 100 GB",
+    "Edición y firma de PDF",
+    "Cifrado de extremo a extremo",
+    "Inicio de sesión único"
+   ],
+   "integraciones": [
+    "Google Workspace",
+    "Slack",
+    "Zoom",
+    "Canva",
+    "Adobe",
+    "HubSpot",
+    "Autodesk",
+    "Microsoft Copilot"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://dropbox.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/dropbox",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "dsoft",
@@ -4119,6 +4827,54 @@
    "datos_revisados": "2026-11-13"
   },
   {
+   "slug": "elevenlabs",
+   "nombre": "ElevenLabs",
+   "que_hace": "Voces con IA, doblaje y agentes de voz para atención y contenido",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [
+    "Atención a clientes"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 6,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "desarrolladores",
+    "empresas-grandes",
+    "agencias",
+    "startups"
+   ],
+   "tareas": [
+    "automatizar-con-ia",
+    "atencion-clientes",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Texto a voz en varios idiomas",
+    "Clonación de voz",
+    "Doblaje automático",
+    "Voz a texto",
+    "Agentes de voz con IA",
+    "API para desarrolladores"
+   ],
+   "integraciones": [
+    "Twilio",
+    "Salesforce",
+    "WhatsApp"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://elevenlabs.io",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/elevenlabs",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "eleventa",
    "nombre": "eleventa",
    "que_hace": "Punto de venta e inventario para tiendas",
@@ -4162,6 +4918,105 @@
    "sitio_web": "https://eleventa.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/eleventa",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "emblue",
+   "nombre": "emBlue",
+   "que_hace": "Email, SMS, WhatsApp y journeys omnicanal con datos de cliente unificados",
+   "categoria": "Marketing",
+   "otras_categorias": [
+    "Analítica y datos"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 34,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "tiendas-en-linea",
+    "pymes"
+   ],
+   "tareas": [
+    "email-marketing",
+    "automatizar-marketing",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Perfil único de cliente (CDP)",
+    "Journeys omnicanal drag & drop",
+    "Email, SMS y WhatsApp marketing",
+    "Notificaciones push y pop-ups web",
+    "IA predictiva y generativa",
+    "Reportes e insights"
+   ],
+   "integraciones": [
+    "VTEX",
+    "Shopify",
+    "Magento",
+    "WooCommerce",
+    "Tiendanube",
+    "PrestaShop",
+    "Zapier",
+    "Facebook"
+   ],
+   "soporte": [
+    "telefono",
+    "whatsapp",
+    "correo",
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://embluemail.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/emblue",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "encontrack",
+   "nombre": "Encontrack",
+   "que_hace": "Rastreo satelital, gestión de flotas y recuperación de vehículos",
+   "categoria": "Movilidad",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": 2002,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "transportistas",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Rastreo satelital en mapa",
+    "Geocercas y puntos de interés",
+    "Calificación de manejo por chofer",
+    "Recordatorios de mantenimiento",
+    "Costos de combustible y casetas",
+    "Recuperación de vehículos robados"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://encontrack.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/encontrack",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "enkontrol",
@@ -4386,6 +5241,44 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "eugenia",
+   "nombre": "Eugenia",
+   "que_hace": "Software para condominios y residenciales",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [],
+   "tareas": [
+    "cobrar"
+   ],
+   "funciones": [
+    "Control de accesos fácil",
+    "Gestión de pagos integrada",
+    "Comunicación efectiva entre residentes"
+   ],
+   "integraciones": [
+    "Stripe",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://eugenia.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/eugenia",
+   "datos_revisados": "2026-11-18"
+  },
+  {
    "slug": "evaai",
    "nombre": "EvaAI",
    "que_hace": "Empleados digitales que toman acción por tu empresa",
@@ -4434,6 +5327,55 @@
    "sitio_web": "https://goeva.ai",
    "ficha_mexsaas": "https://www.mexsaas.com/p/evaai",
    "datos_revisados": "2026-10-30"
+  },
+  {
+   "slug": "factor-bi",
+   "nombre": "Factor BI",
+   "que_hace": "Tableros ejecutivos con datos de Microsip, Aspel SAE y Soft Restaurant",
+   "categoria": "Analítica y datos",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 3000,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "restaurantes"
+   ],
+   "tareas": [
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Tableros de ventas y flujo",
+    "Reportes listos para Microsip",
+    "Sincroniza bases de datos antiguas",
+    "Agente de preguntas con IA",
+    "Datos alojados en AWS",
+    "Implementación en una semana"
+   ],
+   "integraciones": [
+    "Microsip",
+    "Aspel SAE",
+    "Intelisis",
+    "Soft Restaurant",
+    "Volante POS",
+    "Google Sheets",
+    "Amazon QuickSight",
+    "Claude"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://factorbi.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/factor-bi",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "factorial",
@@ -4753,6 +5695,55 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "figuro",
+   "nombre": "Figuro",
+   "que_hace": "CRM para asesores de seguros: prospectos, cotizaciones y renovaciones",
+   "categoria": "Seguros",
+   "otras_categorias": [
+    "Ventas y CRM"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 5,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": false,
+   "para": [],
+   "tareas": [
+    "crm-ventas",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Sitio web para el asesor",
+    "Formularios de solicitud con tu marca",
+    "Prospectos por etapas",
+    "Cotizaciones y pólizas",
+    "Renovaciones y cobranza",
+    "Venta cruzada a clientes"
+   ],
+   "integraciones": [
+    "SICAS",
+    "AdminSE",
+    "Zapier",
+    "Make",
+    "n8n",
+    "WhatsApp",
+    "Gmail",
+    "Mailchimp"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://figuro.la",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/figuro",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "finerio-connect",
    "nombre": "Finerio Connect",
    "que_hace": "APIs de finanzas abiertas para instituciones",
@@ -4783,7 +5774,7 @@
     "Ozone API"
    ],
    "soporte": [],
-   "puntos_mes": 34,
+   "puntos_mes": 35,
    "sitio_web": "https://finerioconnect.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/finerio-connect",
    "datos_revisados": "2026-10-01"
@@ -4880,6 +5871,51 @@
    "sitio_web": "https://fintoc.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/fintoc",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "firmame",
+   "nombre": "Firmame",
+   "que_hace": "Firma electrónica avanzada con NOM-151 y validación de identidad",
+   "categoria": "Legal",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": 2019,
+   "verificado": false,
+   "precio_desde_mxn": 155,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "firmar-contratos",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Firma electrónica avanzada PAdES",
+    "Validación de identidad remota",
+    "Firma por correo, SMS o WhatsApp",
+    "Constancia NOM-151 con Cecoban",
+    "Recordatorios y fechas de vencimiento",
+    "Firma masiva y marca blanca"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "SAT",
+    "Cecoban"
+   ],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://firmame.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/firmame",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "fiscalcloud",
@@ -5071,6 +6107,153 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "fracttal",
+   "nombre": "Fracttal One",
+   "que_hace": "CMMS en la nube para mantenimiento de activos y órdenes de trabajo",
+   "categoria": "Manufactura",
+   "otras_categorias": [],
+   "pais": "España",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": true,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "fabricas",
+    "empresas-grandes",
+    "pymes"
+   ],
+   "tareas": [
+    "monitorear-produccion",
+    "inventario",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Órdenes de trabajo y solicitudes",
+    "Gestión de activos",
+    "Almacén e inventario de refacciones",
+    "App móvil sin conexión",
+    "Sensores IoT Fracttal Sense",
+    "Indicadores MTTR, MTBF y OEE"
+   ],
+   "integraciones": [
+    "SAP",
+    "Oracle",
+    "Microsoft Dynamics",
+    "Google Sheets",
+    "WhatsApp"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://fracttal.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/fracttal",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "fresha",
+   "nombre": "Fresha",
+   "que_hace": "Agenda, cobros y reservas en línea para salones, spas y clínicas",
+   "categoria": "Agenda y reservas",
+   "otras_categorias": [],
+   "pais": "GB",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 160,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "salones-de-belleza",
+    "consultorios-medicos",
+    "gimnasios"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "punto-de-venta",
+    "cobrar",
+    "inventario",
+    "lealtad-clientes"
+   ],
+   "funciones": [
+    "Agenda en línea con recordatorios",
+    "Punto de venta y terminal",
+    "Depósitos y pagos por adelantado",
+    "Recepcionista virtual con IA",
+    "Marketplace de reservas",
+    "Inventario y turnos del personal"
+   ],
+   "integraciones": [
+    "Xero",
+    "Facebook",
+    "Instagram",
+    "WhatsApp",
+    "Píxel de Meta",
+    "Apple Pay",
+    "Google Pay"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://fresha.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/fresha",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "freshdesk",
+   "nombre": "Freshdesk",
+   "que_hace": "Mesa de ayuda con tickets, base de conocimiento y agentes de IA",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 19,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "startups"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Tickets por correo",
+    "Base de conocimiento",
+    "Enrutamiento inteligente",
+    "Políticas de SLA",
+    "Tableros personalizados",
+    "Agentes de IA Freddy"
+   ],
+   "integraciones": [
+    "Slack",
+    "Microsoft Teams",
+    "Shopify",
+    "Google Cloud"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://freshworks.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/freshdesk",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "front16",
    "nombre": "Front16",
    "que_hace": "Sistema para hoteles con reservas, CFDI 4.0 y WhatsApp",
@@ -5187,6 +6370,100 @@
    "sitio_web": "https://gbm.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/gbm",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "gemini",
+   "nombre": "Gemini",
+   "que_hace": "Asistente de IA de Google conectado a Gmail, Documentos y Drive",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [
+    "Productividad"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 99,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "freelancers"
+   ],
+   "tareas": [
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Asistente de chat con IA",
+    "Deep Research para informes",
+    "Generación de imágenes y video",
+    "Conexión con Gmail, Documentos y Drive",
+    "App móvil",
+    "Almacenamiento en planes de pago"
+   ],
+   "integraciones": [
+    "Gmail",
+    "Google Docs",
+    "Google Drive",
+    "Google Workspace"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://gemini.google.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/gemini",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "genesys-cloud",
+   "nombre": "Genesys Cloud",
+   "que_hace": "Plataforma de contact center en la nube para empresas grandes",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": 1990,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 75,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "atender-whatsapp",
+    "automatizar-con-ia",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Canales de voz y digitales",
+    "IVR con comandos de voz",
+    "Agentes de IA",
+    "Análisis de voz y texto",
+    "Campañas salientes",
+    "Mercado de apps AppFoundry"
+   ],
+   "integraciones": [
+    "Salesforce",
+    "ServiceNow",
+    "WhatsApp",
+    "Apple Messages for Business",
+    "AppFoundry"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://genesys.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/genesys-cloud",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "genially",
@@ -5313,7 +6590,7 @@
    "soporte": [
     "whatsapp"
    ],
-   "puntos_mes": 0,
+   "puntos_mes": 1,
    "sitio_web": "https://getnet.net",
    "ficha_mexsaas": "https://www.mexsaas.com/p/getnet-mexico",
    "datos_revisados": "2026-10-08"
@@ -5369,6 +6646,100 @@
    "sitio_web": "https://gigstack.pro",
    "ficha_mexsaas": "https://www.mexsaas.com/p/gigstack",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "gointegro",
+   "nombre": "GOintegro",
+   "que_hace": "Comunicación interna, reconocimientos y beneficios para empleados",
+   "categoria": "Colaboración",
+   "otras_categorias": [
+    "RH y nómina"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "comunicacion-equipo",
+    "beneficios-empleados",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Red social corporativa y noticias",
+    "Chat empresarial",
+    "Encuestas de clima laboral",
+    "Reconocimientos y premios",
+    "Portal de beneficios y descuentos",
+    "Asistente de RH con IA"
+   ],
+   "integraciones": [
+    "Google Workspace",
+    "Okta",
+    "OneLogin",
+    "SAP",
+    "Workday",
+    "Visma",
+    "ADFS",
+    "SAML2"
+   ],
+   "soporte": [
+    "whatsapp",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://gointegro.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/gointegro",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "google-workspace",
+   "nombre": "Google Workspace",
+   "que_hace": "Correo con tu dominio, Drive, Docs y Meet para equipos de trabajo",
+   "categoria": "Colaboración",
+   "otras_categorias": [
+    "Productividad"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 140,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "startups"
+   ],
+   "tareas": [
+    "comunicacion-equipo"
+   ],
+   "funciones": [
+    "Correo con dominio propio",
+    "Videollamadas en Google Meet",
+    "Docs, Sheets y Slides compartidos",
+    "Almacenamiento compartido en Drive",
+    "Gemini integrado en Gmail",
+    "Controles de seguridad y administración"
+   ],
+   "integraciones": [],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://workspace.google.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/google-workspace",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "guros",
@@ -5578,6 +6949,52 @@
    "datos_revisados": "2026-10-01"
   },
   {
+   "slug": "haus",
+   "nombre": "HAÛS",
+   "que_hace": "Administración inteligente para tus espacios",
+   "categoria": "Inmobiliario",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "inmobiliarias",
+    "constructoras",
+    "salones-de-belleza"
+   ],
+   "tareas": [
+    "administrar-condominio",
+    "agendar-citas",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Aplicación para iOS y Android",
+    "Soporte continuo",
+    "Información centralizada"
+   ],
+   "integraciones": [
+    "Stripe",
+    "WhatsApp",
+    "SAT"
+   ],
+   "soporte": [
+    "whatsapp",
+    "chat",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://sistemahaus.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/haus",
+   "datos_revisados": "2026-11-20"
+  },
+  {
    "slug": "heru",
    "nombre": "heru",
    "que_hace": "Declaraciones al SAT y facturación para personas físicas",
@@ -5623,6 +7040,56 @@
    "sitio_web": "https://heru.app",
    "ficha_mexsaas": "https://www.mexsaas.com/p/heru",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "heygen",
+   "nombre": "HeyGen",
+   "que_hace": "Crea videos con avatares de IA y tradúcelos a más de 175 idiomas",
+   "categoria": "Diseño y contenido",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 29,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "agencias",
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "disenar-contenido",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Avatares de video con IA",
+    "Avatar personalizado con tu voz",
+    "Traducción de videos a 175+ idiomas",
+    "Exportación en 1080p y 4K",
+    "Agente de video con IA",
+    "Integración con LMS vía SCORM"
+   ],
+   "integraciones": [
+    "Zapier",
+    "HubSpot",
+    "Make",
+    "n8n",
+    "ChatGPT"
+   ],
+   "soporte": [
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://heygen.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/heygen",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "hubb",
@@ -5857,6 +7324,92 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "incode",
+   "nombre": "Incode",
+   "que_hace": "Verificación de identidad con biometría y prevención de fraude",
+   "categoria": "Ciberseguridad",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "proteger-informacion",
+    "automatizar-con-api",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Verificación de documentos",
+    "Prueba de vida biométrica",
+    "Comparación facial",
+    "Consulta a registros de gobierno",
+    "KYC, KYB y AML",
+    "Detección de deepfakes"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://incode.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/incode",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "innsist",
+   "nombre": "Innsist PMS",
+   "que_hace": "Sistema hotelero (PMS) con recepción, ama de llaves y auditoría",
+   "categoria": "Hotelería y turismo",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": 1982,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "hoteles",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "administrar-hotel",
+    "punto-de-venta",
+    "nomina",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Reservaciones y tarifas",
+    "Recepción y auditoría",
+    "Ama de llaves",
+    "Más de 500 reportes",
+    "Nube o en sitio",
+    "App móvil para recepción"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://tca.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/innsist",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "inssuria",
    "nombre": "INSSURIA",
    "que_hace": "Automatiza tu despacho de seguros con IA",
@@ -5945,6 +7498,46 @@
    "sitio_web": "https://intelimotor.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/intelimotor",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "intelliskool",
+   "nombre": "IntelliSkool",
+   "que_hace": "Transforma la gestión escolar",
+   "categoria": "Educación",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 599,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "escuelas",
+    "pymes",
+    "startups"
+   ],
+   "tareas": [
+    "cobrar",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Gestión de Estudiantes",
+    "Análisis y Reportes",
+    "Automatización"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://intelliskool.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/intelliskool",
+   "datos_revisados": "2026-11-23"
   },
   {
    "slug": "iventas",
@@ -6184,6 +7777,57 @@
    "sitio_web": "https://www.atlassian.com/es/software/jira",
    "ficha_mexsaas": "https://www.mexsaas.com/p/jira",
    "datos_revisados": "2026-11-07"
+  },
+  {
+   "slug": "jumpseller",
+   "nombre": "Jumpseller",
+   "que_hace": "Crea tu tienda en línea con pagos y envíos para México",
+   "categoria": "E-commerce",
+   "otras_categorias": [],
+   "pais": "PT",
+   "ciudad": null,
+   "fundada": 2010,
+   "verificado": false,
+   "precio_desde_mxn": 190,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "tiendas-en-linea",
+    "pymes"
+   ],
+   "tareas": [
+    "tienda-en-linea",
+    "pagos-en-linea",
+    "enviar-paquetes",
+    "punto-de-venta",
+    "marketplaces"
+   ],
+   "funciones": [
+    "Editor visual sin código",
+    "Herramientas de IA para contenido",
+    "POS móvil",
+    "Automatizaciones de WhatsApp",
+    "Venta en redes sociales",
+    "App para iOS y Android"
+   ],
+   "integraciones": [
+    "Mercado Pago",
+    "Conekta",
+    "Openpay",
+    "PayPal",
+    "Stripe",
+    "Skydropx",
+    "Envia.com",
+    "99minutos"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://jumpseller.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/jumpseller",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "kai",
@@ -6436,6 +8080,111 @@
    "sitio_web": "https://klar.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/klar",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "klasius",
+   "nombre": "Klasius",
+   "que_hace": "Reservas, membresías y cobros para gimnasios y estudios fitness",
+   "categoria": "Agenda y reservas",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 999,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": false,
+   "para": [
+    "gimnasios",
+    "salones-de-belleza",
+    "consultorios-medicos"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "cobrar",
+    "pagos-en-linea",
+    "atender-whatsapp",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Reservas y pagos en línea",
+    "Bot de WhatsApp con IA",
+    "Domiciliación de membresías",
+    "Pagos con OXXO y SPEI",
+    "Lista de espera automática",
+    "Predicción de bajas con IA"
+   ],
+   "integraciones": [
+    "Wellhub",
+    "TotalPass",
+    "WordPress",
+    "Wix",
+    "Squarespace",
+    "ChatGPT",
+    "Claude",
+    "Gemini"
+   ],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://klasius.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/klasius",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "kleva",
+   "nombre": "Kleva",
+   "que_hace": "Agentes de voz con IA que llaman y negocian la cobranza de tu cartera",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [
+    "Finanzas"
+   ],
+   "pais": "México",
+   "ciudad": "CDMX",
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "automatizar-con-ia",
+    "cobrar"
+   ],
+   "funciones": [
+    "Agentes de voz para cobranza",
+    "Llamadas con números locales",
+    "Negociación con reglas del acreedor",
+    "Registro de promesas de pago",
+    "Grabación y transcripción de llamadas",
+    "Recordatorios por WhatsApp o SMS"
+   ],
+   "integraciones": [
+    "Salesforce",
+    "HubSpot",
+    "Zoho CRM",
+    "Pipedrive",
+    "Microsoft Dynamics 365",
+    "Freshsales",
+    "Google Sheets",
+    "Amazon S3"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://kleva.co",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/kleva",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "kolonus",
@@ -7076,6 +8825,60 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "lemontech",
+   "nombre": "Lemontech",
+   "que_hace": "Software para despachos y áreas legales: horas, contratos y juicios",
+   "categoria": "Legal",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "Chile",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "abogados",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "gestionar-proyectos",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Registro de horas por cliente",
+    "Gestión del ciclo de contratos",
+    "Seguimiento judicial automatizado",
+    "Cumplimiento normativo con alertas",
+    "Tableros de rentabilidad",
+    "Asistente de IA LIA"
+   ],
+   "integraciones": [
+    "Power BI",
+    "Tableau",
+    "Microsoft SharePoint",
+    "Microsoft Outlook",
+    "Google Calendar",
+    "NetDocuments",
+    "Siigo",
+    "Nubox"
+   ],
+   "soporte": [
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://lemontech.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/lemontech",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "lendera",
    "nombre": "Lendera",
    "que_hace": "Fondeo colectivo para financiar equipo de empresas",
@@ -7113,6 +8916,54 @@
    "sitio_web": "https://lendera.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/lendera",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "leracom-ai",
+   "nombre": "Leracom AI",
+   "que_hace": "Agente de voz con IA que llama, califica leads y agenda citas",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [
+    "Ventas y CRM"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 137,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "pymes"
+   ],
+   "tareas": [
+    "automatizar-con-ia",
+    "crm-ventas"
+   ],
+   "funciones": [
+    "Llamadas a leads 24/7",
+    "Reintentos por llamada y WhatsApp",
+    "Calificación y transferencia en caliente",
+    "Transcripción e insights de cada llamada",
+    "Copilot para crear agentes sin código",
+    "API REST y webhooks"
+   ],
+   "integraciones": [
+    "HubSpot",
+    "Salesforce",
+    "Pipedrive",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://leracom.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/leracom-ai",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "lexgo",
@@ -7207,6 +9058,51 @@
    "datos_revisados": "2026-11-07"
   },
   {
+   "slug": "lirmi",
+   "nombre": "Lirmi",
+   "que_hace": "Gestión escolar, planeación y comunicación con familias para colegios",
+   "categoria": "Educación",
+   "otras_categorias": [],
+   "pais": "Chile",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "escuelas"
+   ],
+   "tareas": [
+    "cobranza-escolar",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Planeación con Nueva Escuela Mexicana",
+    "Libro de clases digital",
+    "Aula virtual",
+    "Comunicación con familias",
+    "Finanzas y admisiones",
+    "Tablero de indicadores escolares"
+   ],
+   "integraciones": [
+    "WhatsApp"
+   ],
+   "soporte": [
+    "chat",
+    "correo",
+    "whatsapp",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://lirmi.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/lirmi",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "listo",
    "nombre": "Listo",
    "que_hace": "Envíos de última milla sin comisiones con agente de IA",
@@ -7226,7 +9122,8 @@
    "prueba_gratis": true,
    "app_movil": null,
    "para": [
-    "restaurantes"
+    "restaurantes",
+    "farmacias"
    ],
    "tareas": [
     "enviar-paquetes",
@@ -7234,22 +9131,27 @@
    ],
    "funciones": [
     "Tarifa fija por envío",
-    "Rastreo GPS en vivo",
-    "Cobro en efectivo a la entrega",
-    "Menú digital con código QR",
-    "Pedidos por WhatsApp con IA",
-    "Cobertura hasta 15 km"
+    "Kilómetro extra a $5 + IVA",
+    "Efectivo a $5 por pedido",
+    "200 conversaciones de IA al mes",
+    "Envíos sin límite al mes",
+    "Rastreo GPS en vivo"
    ],
    "integraciones": [
+    "Uber Direct",
+    "Rappi",
+    "Deliverect",
     "WhatsApp"
    ],
    "soporte": [
-    "whatsapp"
+    "whatsapp",
+    "chat",
+    "telefono"
    ],
    "puntos_mes": 70,
    "sitio_web": "https://listo.delivery",
    "ficha_mexsaas": "https://www.mexsaas.com/p/listo",
-   "datos_revisados": "2026-10-01"
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "lizza",
@@ -7432,6 +9334,49 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "lotor-telematics",
+   "nombre": "Lotor Telematics",
+   "que_hace": "Rastreo GPS, control de diésel y video para flotas en México",
+   "categoria": "Movilidad",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "transportistas"
+   ],
+   "tareas": [
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Rastreo GPS en tiempo real",
+    "Control de combustible",
+    "Videotelemetría con cámaras",
+    "Geocercas y paro de motor",
+    "Centro de monitoreo 24/7",
+    "Plataforma LT Hub"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://lotor.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/lotor-telematics",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "lounn",
    "nombre": "Lounn",
    "que_hace": "Créditos y financiamiento para pymes",
@@ -7528,6 +9473,56 @@
    "sitio_web": "https://loyverse.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/loyverse",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "magnific",
+   "nombre": "Magnific",
+   "que_hace": "Antes Freepik: recursos de stock y generación de imagen y video con IA",
+   "categoria": "Diseño y contenido",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "España",
+   "ciudad": null,
+   "fundada": 2010,
+   "verificado": false,
+   "precio_desde_mxn": 300,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "agencias",
+    "freelancers",
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "disenar-contenido",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Más de 250 millones de recursos de stock",
+    "Generador de imágenes y video con IA",
+    "Escalador de imágenes y video",
+    "Música, voz y efectos de sonido",
+    "Licencia comercial para contenido con IA",
+    "Espacios de trabajo compartidos"
+   ],
+   "integraciones": [
+    "Photoshop",
+    "Figma",
+    "ChatGPT",
+    "Claude",
+    "ComfyUI",
+    "Google Drive"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://magnific.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/magnific",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "mailchimp",
@@ -8057,7 +10052,7 @@
    "soporte": [
     "correo"
    ],
-   "puntos_mes": 326,
+   "puntos_mes": 501,
    "sitio_web": "https://mesivia.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/mesivia",
    "datos_revisados": "2026-11-02"
@@ -8112,6 +10107,57 @@
    "sitio_web": "https://metricool.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/metricool",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "mexcheck",
+   "nombre": "MexCheck",
+   "que_hace": "Verificación de identidad y fiscal en México",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 99,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "constructoras",
+    "pymes",
+    "agencias"
+   ],
+   "tareas": [
+    "facturar",
+    "atencion-clientes",
+    "cobrar"
+   ],
+   "funciones": [
+    "Verificación en tiempo real",
+    "API única",
+    "Sin almacenamiento de datos",
+    "Validaciones de RFC",
+    "Integración de APIs",
+    "Soporte por email"
+   ],
+   "integraciones": [
+    "SAT",
+    "RENAPO",
+    "INE",
+    "CFE",
+    "RFCCheck",
+    "CURPCheck",
+    "INECheck"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://mexcheck.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/mexcheck",
+   "datos_revisados": "2026-11-18"
   },
   {
    "slug": "microsip",
@@ -8715,6 +10761,99 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "motive",
+   "nombre": "Motive",
+   "que_hace": "Gestión de flotas con GPS, dashcams con IA y paro de motor remoto",
+   "categoria": "Movilidad",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "transportistas",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Rastreo GPS de vehículos y activos",
+    "Dashcam con IA",
+    "Paro de motor remoto",
+    "Recordatorios de mantenimiento",
+    "Inspecciones con listas de revisión",
+    "App para choferes"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://gomotive.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/motive",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "multivende",
+   "nombre": "Multivende",
+   "que_hace": "Vende en Mercado Libre, Amazon, Liverpool y más desde un solo panel",
+   "categoria": "E-commerce",
+   "otras_categorias": [],
+   "pais": "Chile",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 3700,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "tiendas-en-linea"
+   ],
+   "tareas": [
+    "marketplaces",
+    "inventario",
+    "tienda-en-linea",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Catálogo central multicanal",
+    "Inventario sincronizado",
+    "Precios por canal",
+    "Pedidos en un solo panel",
+    "Conexión con ERP y POS",
+    "Integración vía API"
+   ],
+   "integraciones": [
+    "Mercado Libre",
+    "Amazon",
+    "Walmart",
+    "Liverpool",
+    "Coppel",
+    "Shopify",
+    "VTEX",
+    "WooCommerce"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://multivende.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/multivende",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "mural",
    "nombre": "Mural",
    "que_hace": "Pizarras visuales para talleres y lluvia de ideas",
@@ -8759,6 +10898,53 @@
    "sitio_web": "https://mural.co",
    "ficha_mexsaas": "https://www.mexsaas.com/p/mural",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "muse-de-meta",
+   "nombre": "Muse de Meta",
+   "que_hace": "Agente personal de IA de Meta que hace tareas con tu aprobación",
+   "categoria": "Inteligencia artificial",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 20,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "desarrolladores"
+   ],
+   "tareas": [
+    "automatizar-con-ia",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Hace tareas en sitios web",
+    "Pide aprobación antes de actuar",
+    "Computadora virtual segura propia",
+    "Registro completo de actividades",
+    "Recordatorios y chats paralelos",
+    "Crea PDFs, hojas y documentos"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "Instagram",
+    "Facebook",
+    "Rappi",
+    "Liverpool",
+    "Coppel",
+    "Cinépolis",
+    "Walmart México"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://muse.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/muse-de-meta",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "mybusiness-pos",
@@ -9032,6 +11218,54 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "neubox",
+   "nombre": "NEUBOX",
+   "que_hace": "Hosting, dominios .mx y servidores VPS con soporte en México",
+   "categoria": "Desarrollo y APIs",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": "Guadalajara",
+   "fundada": 2004,
+   "verificado": false,
+   "precio_desde_mxn": 490,
+   "precio_desde_usd": null,
+   "periodo_precio": "año",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "desarrolladores",
+    "agencias",
+    "freelancers"
+   ],
+   "tareas": [],
+   "funciones": [
+    "Hosting con cPanel",
+    "Dominios .mx y .com.mx",
+    "Correo empresarial",
+    "Certificado SSL gratis",
+    "Servidores VPS",
+    "Soporte 24/7"
+   ],
+   "integraciones": [
+    "cPanel",
+    "WordPress",
+    "DirectAdmin",
+    "Installatron",
+    "n8n"
+   ],
+   "soporte": [
+    "chat",
+    "telefono",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://neubox.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/neubox",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "newsoft",
    "nombre": "NewSoft",
    "que_hace": "Desarrollo de software a la medida y aplicaciones",
@@ -9297,6 +11531,53 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "nubimetrics",
+   "nombre": "Nubimetrics",
+   "que_hace": "Datos de mercado y competencia para vendedores de Mercado Libre",
+   "categoria": "Analítica y datos",
+   "otras_categorias": [
+    "E-commerce"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "tiendas-en-linea"
+   ],
+   "tareas": [
+    "marketplaces",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Análisis de mercado por categoría",
+    "Monitoreo de competidores",
+    "Seguimiento de tiendas oficiales",
+    "Reportes de negocio con IA",
+    "Optimizador de publicaciones",
+    "Conector MCP en Premium"
+   ],
+   "integraciones": [
+    "Mercado Libre"
+   ],
+   "soporte": [
+    "whatsapp",
+    "chat",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://nubimetrics.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/nubimetrics",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "nubix",
    "nombre": "NUBIX",
    "que_hace": "Imagenología y laboratorio en la nube",
@@ -9545,6 +11826,59 @@
    "sitio_web": "https://odoo.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/odoo",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "olaclick",
+   "nombre": "OlaClick",
+   "que_hace": "Menú digital, pedidos por WhatsApp y punto de venta para restaurantes",
+   "categoria": "Restaurantes",
+   "otras_categorias": [
+    "E-commerce",
+    "WhatsApp y chat"
+   ],
+   "pais": "Brasil",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 200,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "restaurantes",
+    "pymes"
+   ],
+   "tareas": [
+    "punto-de-venta",
+    "tienda-en-linea",
+    "atender-whatsapp",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Menú digital con QR",
+    "Pedidos por WhatsApp",
+    "Chatbot de WhatsApp con IA",
+    "Pantalla de cocina (KDS)",
+    "Mesero digital",
+    "Sin comisión por pedido"
+   ],
+   "integraciones": [
+    "Rappi",
+    "iFood",
+    "99Food",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "whatsapp",
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://olaclick.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/olaclick",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "openpay",
@@ -9821,6 +12155,57 @@
    "datos_revisados": "2026-10-01"
   },
   {
+   "slug": "paraty-tech",
+   "nombre": "Paraty Tech",
+   "que_hace": "Motor de reservas para la venta directa de hoteles",
+   "categoria": "Hotelería y turismo",
+   "otras_categorias": [],
+   "pais": "España",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "hoteles"
+   ],
+   "tareas": [
+    "administrar-hotel",
+    "pagos-en-linea",
+    "lealtad-clientes"
+   ],
+   "funciones": [
+    "Embudos con pruebas A/B",
+    "Paquetes dinámicos",
+    "Códigos promocionales",
+    "Check-in en línea",
+    "Grupos y eventos (MICE)",
+    "Versión móvil del motor"
+   ],
+   "integraciones": [
+    "SiteMinder",
+    "Cloudbeds",
+    "Mews",
+    "Duetto",
+    "PayPal",
+    "PayU",
+    "PlaceToPay",
+    "Amazon Pay"
+   ],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://paratytech.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/paraty-tech",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "parrot",
    "nombre": "Parrot",
    "que_hace": "Punto de venta y operación para restaurantes",
@@ -9913,6 +12298,54 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "photoroom",
+   "nombre": "Photoroom",
+   "que_hace": "Fotos y videos de producto con IA para vender en línea",
+   "categoria": "Diseño y contenido",
+   "otras_categorias": [
+    "E-commerce",
+    "Inteligencia artificial"
+   ],
+   "pais": "FR",
+   "ciudad": null,
+   "fundada": 2020,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 12.99,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "tiendas-en-linea",
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "disenar-contenido",
+    "marketplaces",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Eliminador de fondo",
+    "Fondos y escenas con IA",
+    "Modelos virtuales de moda",
+    "Edición por lotes",
+    "Anuncios en video",
+    "API para integrar"
+   ],
+   "integraciones": [
+    "Shopify",
+    "Claude",
+    "ChatGPT"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://photoroom.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/photoroom",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "picsart",
    "nombre": "Picsart",
    "que_hace": "Edición de fotos y video con herramientas de IA",
@@ -9998,6 +12431,84 @@
    "sitio_web": "https://pipedrive.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/pipedrive",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "platzi",
+   "nombre": "Platzi",
+   "que_hace": "Cursos en línea de IA, inglés y tecnología para personas y empresas",
+   "categoria": "Educación",
+   "otras_categorias": [
+    "RH y nómina"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 849,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "startups"
+   ],
+   "tareas": [],
+   "funciones": [
+    "Rutas de aprendizaje por rol",
+    "Seguimiento del avance en tiempo real",
+    "Reportes exportables para empresas",
+    "Alta y baja de accesos",
+    "Clases cortas de 10 a 20 minutos",
+    "App móvil con descargas"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://platzi.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/platzi",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "playtomic",
+   "nombre": "Playtomic",
+   "que_hace": "Reservas de canchas de pádel y tenis y gestión de clubes",
+   "categoria": "Agenda y reservas",
+   "otras_categorias": [],
+   "pais": "España",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [],
+   "tareas": [
+    "agendar-citas",
+    "cobrar",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Reservas de canchas en línea",
+    "Partidos abiertos entre jugadores",
+    "Ligas, torneos y clases",
+    "Pagos integrados",
+    "Reportes y analítica en tiempo real",
+    "App para jugadores"
+   ],
+   "integraciones": [],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://playtomic.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/playtomic",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "point",
@@ -10277,6 +12788,54 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "proscai",
+   "nombre": "Proscai",
+   "que_hace": "ERP mexicano con producción, punto de venta y EDI para cadenas",
+   "categoria": "Manufactura",
+   "otras_categorias": [
+    "E-commerce"
+   ],
+   "pais": "México",
+   "ciudad": "CDMX",
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "fabricas",
+    "pymes"
+   ],
+   "tareas": [
+    "inventario",
+    "punto-de-venta",
+    "tienda-en-linea",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Producción y explosión de materiales",
+    "Control de destajos y costeo",
+    "Punto de venta integrado",
+    "EDI para cadenas comerciales",
+    "Inteligencia de inventarios REDI",
+    "Operación en la nube con Galio"
+   ],
+   "integraciones": [
+    "Liverpool (EDI)"
+   ],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://proscai.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/proscai",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "prosperia",
    "nombre": "PROSPERiA",
    "que_hace": "Detección de enfermedades de la retina con IA",
@@ -10316,6 +12875,51 @@
    "sitio_web": "https://prosperia.health",
    "ficha_mexsaas": "https://www.mexsaas.com/p/prosperia",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "proveedor-al-dia",
+   "nombre": "Proveedor al Día",
+   "que_hace": "Consulta la lista negra del SAT y gestiona proveedores",
+   "categoria": "Analítica y datos",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 1490,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "contadores",
+    "constructoras"
+   ],
+   "tareas": [
+    "cobrar",
+    "facturar",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "Consulta de proveedores",
+    "Arrastre de documentos",
+    "Interfaz fácil de usar",
+    "Semáforo de estatus",
+    "Revisión sin subir documentos",
+    "Panel con semáforo"
+   ],
+   "integraciones": [
+    "Stripe"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://proveedoraldia.goevi001.workers.dev",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/proveedor-al-dia",
+   "datos_revisados": "2026-11-18"
   },
   {
    "slug": "prysmex",
@@ -11055,6 +13659,105 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "riservi",
+   "nombre": "Riservi",
+   "que_hace": "Reservaciones en línea, mesas y lista de espera para restaurantes",
+   "categoria": "Restaurantes",
+   "otras_categorias": [
+    "Agenda y reservas",
+    "Marketing"
+   ],
+   "pais": "PA",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 1000,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "restaurantes"
+   ],
+   "tareas": [
+    "agendar-citas",
+    "email-marketing",
+    "automatizar-marketing",
+    "lealtad-clientes"
+   ],
+   "funciones": [
+    "Reservas en línea sin comisión",
+    "Plano y gestión de mesas",
+    "Lista de espera con QR",
+    "Reservas con prepago",
+    "Eventos con pago en línea",
+    "Recordatorios por WhatsApp"
+   ],
+   "integraciones": [
+    "Instagram",
+    "Facebook",
+    "Google",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://riservi.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/riservi",
+   "datos_revisados": "2026-11-21"
+  },
+  {
+   "slug": "roiback",
+   "nombre": "Roiback",
+   "que_hace": "Motor de reservas y marketing para venta directa de hoteles",
+   "categoria": "Hotelería y turismo",
+   "otras_categorias": [
+    "Marketing"
+   ],
+   "pais": "España",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "hoteles",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "administrar-hotel",
+    "pagos-en-linea",
+    "lealtad-clientes",
+    "email-marketing"
+   ],
+   "funciones": [
+    "Motor de reservas",
+    "Diseño web para hoteles",
+    "Marketing en metabuscadores",
+    "Contact center",
+    "Programa de lealtad",
+    "Paquetes vuelo más hotel"
+   ],
+   "integraciones": [
+    "Stripe",
+    "Meta",
+    "ThinkIn",
+    "The Hotels Network",
+    "Hotelverse"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://roiback.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/roiback",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "runa",
    "nombre": "Runa",
    "que_hace": "Nómina y personas para empresas",
@@ -11226,6 +13929,57 @@
    "sitio_web": "https://salesforce.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/salesforce",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "saludtotal",
+   "nombre": "SaludTotal",
+   "que_hace": "Expediente clínico electrónico certificado NOM-024, agenda y recetas",
+   "categoria": "Salud",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": "Monterrey",
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 259,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "consultorios-medicos"
+   ],
+   "tareas": [
+    "expediente-clinico",
+    "agendar-citas",
+    "facturar",
+    "atender-whatsapp",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Certificado NOM-024 ante DGIS",
+    "Recordatorios de citas por WhatsApp",
+    "Recetas electrónicas",
+    "Facturación CFDI 4.0",
+    "Portal del paciente",
+    "Notas clínicas con IA"
+   ],
+   "integraciones": [
+    "Medikit",
+    "WhatsApp",
+    "SAT",
+    "HL7"
+   ],
+   "soporte": [
+    "chat",
+    "correo",
+    "telefono",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://saludtotal.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/saludtotal",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "samsara",
@@ -11441,6 +14195,55 @@
    "datos_revisados": "2026-11-15"
   },
   {
+   "slug": "servoescolar",
+   "nombre": "Servoescolar Web",
+   "que_hace": "Control escolar, cobranza y aula virtual para escuelas privadas",
+   "categoria": "Educación",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "escuelas"
+   ],
+   "tareas": [
+    "cobranza-escolar",
+    "facturar",
+    "pagos-en-linea"
+   ],
+   "funciones": [
+    "Control escolar y calificaciones",
+    "Cobranza y pagos en línea",
+    "Facturación electrónica SAT",
+    "Títulos electrónicos SEP",
+    "Aula virtual (LMS)",
+    "Red social escolar privada"
+   ],
+   "integraciones": [
+    "Microsip",
+    "CONTPAQi",
+    "Aspel",
+    "SEP/DGP",
+    "Microsoft Azure"
+   ],
+   "soporte": [
+    "telefono",
+    "correo",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://servoescolar.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/servoescolar",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "sesame-hr",
    "nombre": "Sesame HR",
    "que_hace": "Gestión de recursos humanos para empresas",
@@ -11582,6 +14385,52 @@
    "sitio_web": "https://shopify.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/shopify",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "sicas-online",
+   "nombre": "SICAS Online",
+   "que_hace": "Software para agentes y promotorías: pólizas, cobranza y comisiones",
+   "categoria": "Seguros",
+   "otras_categorias": [
+    "Ventas y CRM"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 7990,
+   "precio_desde_usd": null,
+   "periodo_precio": "año",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [],
+   "tareas": [
+    "crm-ventas",
+    "cobrar",
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Control de pólizas y fianzas",
+    "Renovaciones y cobranza",
+    "Cálculo de comisiones",
+    "Endosos y siniestros",
+    "Lector de PDF y XML",
+    "App para consultar cartera"
+   ],
+   "integraciones": [
+    "Chubb",
+    "API"
+   ],
+   "soporte": [
+    "telefono",
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://sicasonline.net",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/sicas-online",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "siigo-aspel",
@@ -11809,7 +14658,7 @@
     "whatsapp",
     "correo"
    ],
-   "puntos_mes": 180,
+   "puntos_mes": 356,
    "sitio_web": "https://sirvoapp.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/sirvo",
    "datos_revisados": "2026-11-09"
@@ -11863,6 +14712,48 @@
    "sitio_web": "https://siteminder.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/siteminder",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "sitrack",
+   "nombre": "Sitrack",
+   "que_hace": "Rastreo GPS de flotas, control de combustible y monitoreo de carga",
+   "categoria": "Movilidad",
+   "otras_categorias": [
+    "Logística y envíos"
+   ],
+   "pais": "Argentina",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "transportistas"
+   ],
+   "tareas": [
+    "reportes-y-datos"
+   ],
+   "funciones": [
+    "Rastreo GPS en tiempo real",
+    "Control de combustible",
+    "Monitoreo de temperatura y peso",
+    "Evaluación de hábitos de manejo",
+    "Dashcams y visibilidad de remolques",
+    "Sistema antirrobo AV"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://sitrack.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/sitrack",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "skola",
@@ -12035,6 +14926,63 @@
    "datos_revisados": "2026-11-07"
   },
   {
+   "slug": "sms-masivos",
+   "nombre": "SMS Masivos",
+   "que_hace": "Envío de SMS masivos a todos los carriers de México, en prepago",
+   "categoria": "Marketing",
+   "otras_categorias": [
+    "Atención a clientes"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": 2010,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": "por uso",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes",
+    "tiendas-en-linea"
+   ],
+   "tareas": [
+    "automatizar-marketing",
+    "lealtad-clientes",
+    "cobrar",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Remitente de código corto de 5 dígitos",
+    "Envíos desde Excel hasta 300,000 contactos",
+    "Personalización por contacto",
+    "Programación de envíos",
+    "Reportes de entrega en tiempo real",
+    "Encuestas, cupones y tarjetas de lealtad"
+   ],
+   "integraciones": [
+    "Zapier",
+    "Make",
+    "Pabbly",
+    "Shopify",
+    "WooCommerce",
+    "HubSpot",
+    "Google Sheets"
+   ],
+   "soporte": [
+    "chat",
+    "correo",
+    "telefono",
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://smsmasivos.com.mx",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/sms-masivos",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "sofia-salud",
    "nombre": "Sofía",
    "que_hace": "Seguro de gastos médicos para empresas y personas",
@@ -12115,6 +15063,55 @@
    "sitio_web": "https://softrestaurant.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/soft-restaurant",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "somos-broker",
+   "nombre": "Somos Broker",
+   "que_hace": "CRM inmobiliario para brokers y asesores inmobiliarios",
+   "categoria": "Inmobiliario",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 349,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "inmobiliarias",
+    "pymes",
+    "freelancers"
+   ],
+   "tareas": [
+    "reportes-y-datos",
+    "atencion-clientes"
+   ],
+   "funciones": [
+    "WhatsApp integrado",
+    "reportes en tiempo real",
+    "automatización de seguimientos",
+    "gestión de propiedades",
+    "fichas personalizadas",
+    "pipeline comercial"
+   ],
+   "integraciones": [
+    "WhatsApp",
+    "inteligencia artificial",
+    "mail",
+    "pagina web",
+    "portales inmobiliarios"
+   ],
+   "soporte": [
+    "chat",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://somosbroker.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/somos-broker",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "soy-norma",
@@ -12278,6 +15275,51 @@
    "sitio_web": "https://stripe.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/stripe",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "svision",
+   "nombre": "SVISION",
+   "que_hace": "Software de mantenimiento (CMMS) para equipos, órdenes y refacciones",
+   "categoria": "Manufactura",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": 165,
+   "precio_desde_usd": null,
+   "periodo_precio": "mes",
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "fabricas",
+    "hoteles",
+    "constructoras"
+   ],
+   "tareas": [
+    "monitorear-produccion",
+    "inventario"
+   ],
+   "funciones": [
+    "Órdenes de trabajo",
+    "Mantenimiento preventivo",
+    "Inventario de refacciones",
+    "Control de herramientas",
+    "App móvil con códigos QR",
+    "Base de datos en la nube opcional"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "correo",
+    "telefono",
+    "whatsapp",
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://svisioncmms.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/svision",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "syncfy",
@@ -12892,6 +15934,57 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "tractian",
+   "nombre": "Tractian",
+   "que_hace": "Sensores, CMMS e IA para mantenimiento predictivo de máquinas",
+   "categoria": "Manufactura",
+   "otras_categorias": [
+    "Inteligencia artificial"
+   ],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": true,
+   "para": [
+    "fabricas",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "monitorear-produccion",
+    "inventario",
+    "reportes-y-datos",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Sensores de vibración y temperatura",
+    "Monitoreo eléctrico de equipos",
+    "Diagnóstico de fallas con IA",
+    "Órdenes de trabajo y preventivos",
+    "Inventario de refacciones",
+    "Despliegue en varias plantas"
+   ],
+   "integraciones": [
+    "SAP",
+    "Oracle NetSuite",
+    "Power BI",
+    "IBM Maximo"
+   ],
+   "soporte": [
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://tractian.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/tractian",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "trato",
    "nombre": "Trato",
    "que_hace": "Contratos con IA de punta a punta",
@@ -12927,6 +16020,56 @@
    "sitio_web": "https://trato.io",
    "ficha_mexsaas": "https://www.mexsaas.com/p/trato",
    "datos_revisados": "2026-10-01"
+  },
+  {
+   "slug": "treble",
+   "nombre": "Treble",
+   "que_hace": "Campañas, chatbots y atención por la API de WhatsApp Business",
+   "categoria": "WhatsApp y chat",
+   "otras_categorias": [
+    "Marketing"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "atender-whatsapp",
+    "atencion-clientes",
+    "automatizar-marketing",
+    "automatizar-con-ia"
+   ],
+   "funciones": [
+    "Editor de flujos sin código",
+    "Campañas masivas segmentadas",
+    "IA para preguntas frecuentes",
+    "Calificación de prospectos",
+    "Paso a agente humano",
+    "Anuncios Click to WhatsApp"
+   ],
+   "integraciones": [
+    "HubSpot",
+    "Salesforce",
+    "Google Sheets",
+    "Zoho CRM"
+   ],
+   "soporte": [
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://treble.ai",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/treble",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "treembo",
@@ -13051,6 +16194,52 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "truora",
+   "nombre": "Truora",
+   "que_hace": "Validación de identidad, antecedentes y firma electrónica por API",
+   "categoria": "Ciberseguridad",
+   "otras_categorias": [
+    "Legal"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "startups",
+    "inmobiliarias",
+    "desarrolladores"
+   ],
+   "tareas": [
+    "proteger-informacion",
+    "firmar-contratos",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Lectura de documentos y biometría",
+    "Prueba de vida",
+    "Antecedentes y listas PEP",
+    "Detección de fraude",
+    "Firma electrónica",
+    "API, SDK y webhooks"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://truora.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/truora",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "tu-identidad",
    "nombre": "Tu Identidad",
    "que_hace": "Validación de identidad KYC, KYB y firma NOM-151",
@@ -13142,7 +16331,7 @@
     "correo",
     "telefono"
    ],
-   "puntos_mes": 150,
+   "puntos_mes": 325,
    "sitio_web": "https://tufacturapro.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/tufacturapro",
    "datos_revisados": "2026-11-04"
@@ -13597,6 +16786,59 @@
    "datos_revisados": "2026-10-01"
   },
   {
+   "slug": "verificamex",
+   "nombre": "Verificamex",
+   "que_hace": "APIs para validar INE, CURP, RFC y e.firma, y firmar documentos",
+   "categoria": "Desarrollo y APIs",
+   "otras_categorias": [
+    "Ciberseguridad"
+   ],
+   "pais": "México",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": "por uso",
+   "plan_gratis": false,
+   "prueba_gratis": true,
+   "app_movil": null,
+   "para": [
+    "desarrolladores",
+    "empresas-grandes",
+    "pymes",
+    "startups"
+   ],
+   "tareas": [
+    "automatizar-con-api",
+    "proteger-informacion",
+    "firmar-contratos"
+   ],
+   "funciones": [
+    "Validación de INE y CURP",
+    "Validación de RFC y e.firma",
+    "OCR de INE y pasaporte",
+    "Comparación facial y prueba de vida",
+    "Firma electrónica y NOM-151",
+    "Validación por lotes"
+   ],
+   "integraciones": [
+    "SAT",
+    "RENAPO",
+    "INE",
+    "CFE"
+   ],
+   "soporte": [
+    "whatsapp",
+    "telefono",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://verificamex.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/verificamex",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "verqor",
    "nombre": "Verqor",
    "que_hace": "Crédito para insumos agrícolas",
@@ -13815,6 +17057,50 @@
    "datos_revisados": "2026-10-26"
   },
   {
+   "slug": "vistacreate",
+   "nombre": "VistaCreate",
+   "que_hace": "Diseños con plantillas e IA para redes, anuncios e impresos",
+   "categoria": "Diseño y contenido",
+   "otras_categorias": [
+    "Marketing"
+   ],
+   "pais": "CH",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": 10,
+   "periodo_precio": "mes",
+   "plan_gratis": true,
+   "prueba_gratis": true,
+   "app_movil": true,
+   "para": [
+    "pymes"
+   ],
+   "tareas": [
+    "disenar-contenido",
+    "redes-sociales"
+   ],
+   "funciones": [
+    "Más de 200 mil plantillas",
+    "Kits de marca",
+    "Programación en redes sociales",
+    "Eliminador de fondos con IA",
+    "Redimensión en un clic",
+    "Impresión con VistaPrint"
+   ],
+   "integraciones": [
+    "VistaPrint"
+   ],
+   "soporte": [
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://create.vista.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/vistacreate",
+   "datos_revisados": "2026-11-21"
+  },
+  {
    "slug": "vivook",
    "nombre": "Vivook",
    "que_hace": "Administración, cobranza y acceso para condominios",
@@ -13905,6 +17191,49 @@
    "sitio_web": "https://www.vortacompany.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/vorta",
    "datos_revisados": "2026-10-13"
+  },
+  {
+   "slug": "vtex",
+   "nombre": "VTEX",
+   "que_hace": "Plataforma de comercio para B2C, B2B y marketplaces de grandes marcas",
+   "categoria": "E-commerce",
+   "otras_categorias": [],
+   "pais": "Brasil",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "tiendas-en-linea"
+   ],
+   "tareas": [
+    "tienda-en-linea",
+    "marketplaces",
+    "automatizar-con-ia",
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "Comercio B2C y B2B",
+    "Marketplace propio",
+    "Tienda dentro de WhatsApp",
+    "Búsqueda con IA",
+    "Retail media con VTEX Ads",
+    "Arquitectura con APIs"
+   ],
+   "integraciones": [
+    "WhatsApp"
+   ],
+   "soporte": [],
+   "puntos_mes": 0,
+   "sitio_web": "https://vtex.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/vtex",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "wansoft",
@@ -14001,6 +17330,46 @@
    "sitio_web": "https://wati.io",
    "ficha_mexsaas": "https://www.mexsaas.com/p/wati",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "webex",
+   "nombre": "Webex",
+   "que_hace": "Videollamadas, mensajería y pizarras compartidas para equipos",
+   "categoria": "Colaboración",
+   "otras_categorias": [],
+   "pais": "EE.UU.",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": true,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "pymes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "comunicacion-equipo"
+   ],
+   "funciones": [
+    "Reuniones gratis de hasta 100 asistentes",
+    "Pizarras ilimitadas",
+    "Mensajería ilimitada",
+    "Cancelación avanzada de ruido",
+    "Videos asíncronos con Vidcast",
+    "Asistente de IA en Enterprise"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://webex.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/webex",
+   "datos_revisados": "2026-11-19"
   },
   {
    "slug": "weetrust",
@@ -14276,6 +17645,53 @@
    "datos_revisados": "2026-10-08"
   },
   {
+   "slug": "wolkvox",
+   "nombre": "wolkvox",
+   "que_hace": "Contact center en la nube con voz, WhatsApp, bots e IA",
+   "categoria": "Atención a clientes",
+   "otras_categorias": [
+    "WhatsApp y chat"
+   ],
+   "pais": "Colombia",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": "por uso",
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "empresas-grandes",
+    "pymes"
+   ],
+   "tareas": [
+    "atencion-clientes",
+    "atender-whatsapp",
+    "automatizar-con-ia",
+    "crm-ventas"
+   ],
+   "funciones": [
+    "IVR y enrutamiento",
+    "Marcador predictivo y progresivo",
+    "Bandeja omnicanal",
+    "Chatbots y voicebots con IA",
+    "Copilotos para agentes",
+    "CRM incluido"
+   ],
+   "integraciones": [],
+   "soporte": [
+    "whatsapp",
+    "correo",
+    "telefono"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://wolkvox.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/wolkvox",
+   "datos_revisados": "2026-11-19"
+  },
+  {
    "slug": "worky",
    "nombre": "Worky",
    "que_hace": "Nómina, RH e IMSS en un solo lugar",
@@ -14420,6 +17836,61 @@
    "sitio_web": "https://xepelin.com",
    "ficha_mexsaas": "https://www.mexsaas.com/p/xepelin",
    "datos_revisados": "2026-10-03"
+  },
+  {
+   "slug": "xetux",
+   "nombre": "Xetux",
+   "que_hace": "Punto de venta para restaurantes con inventario por receta y KDS",
+   "categoria": "Restaurantes",
+   "otras_categorias": [],
+   "pais": "VE",
+   "ciudad": null,
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": null,
+   "prueba_gratis": null,
+   "app_movil": true,
+   "para": [
+    "restaurantes",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "punto-de-venta",
+    "inventario",
+    "lealtad-clientes",
+    "reportes-y-datos",
+    "facturar"
+   ],
+   "funciones": [
+    "Punto de venta en Android",
+    "Funciona sin internet",
+    "Inventario por receta",
+    "Pantallas de cocina (KDS)",
+    "Quiosco de autoservicio",
+    "Catálogo central multisucursal"
+   ],
+   "integraciones": [
+    "Uber Eats",
+    "DiDi",
+    "Rappi",
+    "OpenTable",
+    "Riservi",
+    "SAP Business ByDesign",
+    "Billpocket",
+    "NetPay"
+   ],
+   "soporte": [
+    "telefono",
+    "correo",
+    "chat"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://xetux.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/xetux",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "xp-azul",
@@ -14716,6 +18187,102 @@
    "sitio_web": "https://zapsign.mx",
    "ficha_mexsaas": "https://www.mexsaas.com/p/zapsign",
    "datos_revisados": "2026-10-08"
+  },
+  {
+   "slug": "zavia-erp",
+   "nombre": "Zavia ERP",
+   "que_hace": "PMS, motor de reservas y channel manager para hoteles",
+   "categoria": "Hotelería y turismo",
+   "otras_categorias": [],
+   "pais": "México",
+   "ciudad": "Cancún",
+   "fundada": null,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": false,
+   "app_movil": null,
+   "para": [
+    "hoteles"
+   ],
+   "tareas": [
+    "administrar-hotel",
+    "punto-de-venta",
+    "facturar"
+   ],
+   "funciones": [
+    "PMS con check-in y auditoría nocturna",
+    "Motor de reservas",
+    "Channel manager con 45+ OTAs",
+    "Punto de venta",
+    "Constructor de sitio web",
+    "Conserje digital con IA"
+   ],
+   "integraciones": [
+    "Booking.com",
+    "Expedia",
+    "Airbnb"
+   ],
+   "soporte": [
+    "telefono",
+    "chat",
+    "whatsapp",
+    "correo"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://zaviaerp.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/zavia-erp",
+   "datos_revisados": "2026-11-19"
+  },
+  {
+   "slug": "zebra-insurtech",
+   "nombre": "Zebra Insurtech",
+   "que_hace": "APIs para que fintechs y comercios vendan seguros embebidos",
+   "categoria": "Seguros",
+   "otras_categorias": [
+    "Desarrollo y APIs"
+   ],
+   "pais": "México",
+   "ciudad": "CDMX",
+   "fundada": 2024,
+   "verificado": false,
+   "precio_desde_mxn": null,
+   "precio_desde_usd": null,
+   "periodo_precio": null,
+   "plan_gratis": false,
+   "prueba_gratis": null,
+   "app_movil": null,
+   "para": [
+    "startups",
+    "tiendas-en-linea",
+    "empresas-grandes"
+   ],
+   "tareas": [
+    "automatizar-con-api"
+   ],
+   "funciones": [
+    "API de suscripción de pólizas",
+    "API de gestión de siniestros",
+    "Seguros paramétricos de pago rápido",
+    "Tableros de ventas y siniestros",
+    "Siniestros por WhatsApp o teléfono",
+    "Integración plug and play"
+   ],
+   "integraciones": [
+    "Zurich",
+    "GMX Seguros",
+    "Chubb",
+    "WhatsApp"
+   ],
+   "soporte": [
+    "whatsapp"
+   ],
+   "puntos_mes": 0,
+   "sitio_web": "https://zebrainsurtech.com",
+   "ficha_mexsaas": "https://www.mexsaas.com/p/zebra-insurtech",
+   "datos_revisados": "2026-11-21"
   },
   {
    "slug": "zendesk",
